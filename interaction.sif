@@ -1,0 +1,55 @@
+ITGB1 	pp	CX3C
+NR3C1	pp	vascular permeability
+SNAP23	pp	adherens junction
+SUCNR1	pp	IL-1beta
+SUCNR1	pp	macrophage activation
+SUCNR1	pp	glucose homeostasis
+VEGFA	pp	VEGFR1
+VEGFA	pp	VEGFR2
+VEGFA	pp	ERK1/ERK2
+VEGFA	pp	p38MAPK
+VEGFA	pp	adherens junction
+VEGFA	pp	nitric oxide
+VEGFA	pp	vascular permeability
+ANGPT2	pp	VEGFR1
+ANGPT2	pp	VEGFR2
+FCER2	pp	nitric oxide
+FCER2	pp	macrophage activation
+NFKBIA	pp	NF-kappaB
+SPI1	pp	p38MAPK
+SPI1	pp	NF-kappaB
+IL10	pp	IL12
+IL10	pp	IL6
+IL10	pp	nitric oxide
+IL10	pp	JAK-STAT
+RIPK2	pp	IL6
+RIPK2	pp	IL-1beta
+RIPK2	pp	ERK1/ERK2
+RIPK2	pp	NF-kappaB
+SARM1	pp	TLR4
+ABL2	pp	ERK1/ERK2
+ABL2	pp	NF-kappaB
+HK1	pp	IL-1beta
+DDX58	pp	IL6
+CCL1	pp	IL17
+CCL1	pp	ERK1/ERK2
+EGFR	pp	ERK1/ERK2
+EGFR	pp	NF-kappaB
+EGFR	pp	nitric oxide
+GSDMD	pp	IL-1beta
+NLRC5	pp	NF-kappaB
+PRDX3	pp	NF-kappaB
+SERPINB1	pp	IL-1beta
+TRIM59	pp	NF-kappaB
+tripeptidyl-peptidase II	pp	IL6
+tripeptidyl-peptidase II	pp	ERK1/ERK2
+tripeptidyl-peptidase II	pp	CXC2
+tripeptidyl-peptidase II	pp	NF-kappaB
+TYK2	pp	IL17
+TYK2	pp	JAK-STAT
+ZBTB7B	pp	IL17
+ABL2	pp	PLC activity
+IRF3	pp	NF-kappaB
+PSMD10	pp	NF-kappaB
+CCL11	pp	ERK1/ERK2
+

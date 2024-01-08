@@ -1,0 +1,54 @@
+Input	Interaction	Input2	relation	type
+ITGB1 	pp	CX3C	1	aapp
+NR3C1	pp	vascular permeability	-1	gngm
+SNAP23	pp	adherens junction	1	gngm
+SUCNR1	pp	IL-1beta	1	aapp
+SUCNR1	pp	macrophage activation	1	aapp
+SUCNR1	pp	glucose homeostasis	1	aapp
+VEGFA	pp	VEGFR1	1	aapp
+VEGFA	pp	VEGFR2	1	aapp
+VEGFA	pp	ERK1/ERK2	1	aapp
+VEGFA	pp	p38MAPK	1	aapp
+VEGFA	pp	adherens junction	-1	aapp
+VEGFA	pp	nitric oxide	1	aapp
+VEGFA	pp	vascular permeability	1	aapp
+ANGPT2	pp	VEGFR1	1	gngm
+ANGPT2	pp	VEGFR2	1	gngm
+FCER2	pp	nitric oxide	1	aapp
+FCER2	pp	macrophage activation	1	aapp
+NFKBIA	pp	NF-kappaB	-1	aapp
+SPI1	pp	p38MAPK	1	gngm
+SPI1	pp	NF-kappaB	-1	gngm
+IL10	pp	IL12	-1	gngm
+IL10	pp	IL6	-1	gngm
+IL10	pp	nitric oxide	-1	gngm
+RIPK2	pp	IL6	1	aapp
+RIPK2	pp	IL-1beta	1	aapp
+RIPK2	pp	ERK1/ERK2	1	aapp
+RIPK2	pp	NF-kappaB	1	aapp
+SARM1	pp	TLR4	-1	gngm
+ABL2	pp	ERK1/ERK2	1	aapp
+ABL2	pp	NF-kappaB	1	aapp
+HK1	pp	IL-1beta	1	gngm
+DDX58	pp	IL6	1	gngm
+CCL1	pp	IL17	1	aapp
+CCL1	pp	ERK1/ERK2	1	aapp
+EGFR	pp	ERK1/ERK2	1	aapp
+EGFR	pp	NF-kappaB	1	aapp
+EGFR	pp	nitric oxide	1	aapp
+GSDMD	pp	IL-1beta	1	gngm
+NLRC5	pp	NF-kappaB	-1	gngm
+PRDX3	pp	NF-kappaB	1	aapp
+SERPINB1	pp	IL-1beta	-1	aapp
+TRIM59	pp	NF-kappaB	-1	gngm
+tripeptidyl-peptidase II	pp	IL6	1	aapp
+tripeptidyl-peptidase II	pp	ERK1/ERK2	1	aapp
+tripeptidyl-peptidase II	pp	CXC2	1	aapp
+TYK2	pp	IL17	1	aapp
+TYK2	pp	JAK-STAT	1	aapp
+ZBTB7B	pp	IL17	1	gngm
+ABL2	pp	PLC activity	1	aapp
+IRF3	pp	NF-kappaB	1	aapp
+PSMD10	pp	NF-kappaB	-1	gngm
+CCL11	pp	ERK1/ERK2	1	gngm
+IL10	pp	JAK-STAT	1	gngm

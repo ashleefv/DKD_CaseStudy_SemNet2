@@ -1,0 +1,375 @@
+﻿Input,Term,mean_hetesim_score,count,term_uniID
+ANGPT2,angiogenesis,0.598166722,8,angiogenesis
+ANGPT2,angiogenesis,0.598166722,8,angiogenesis
+ANGPT2,collagen-containing extracellular matrix,0.598166722,8,ECM component
+ANGPT2,glomerulus vasculature development,0.598166722,8,glomerulus development
+ANGPT2,negative regulation of angiogenesis,0.598166722,8,angiogenesis
+ANGPT2,negative regulation of blood vessel endothelial cell migration,0.598166722,8,cell migration
+ANGPT2,negative regulation of cell-substrate adhesion,0.598166722,8,cell adhesion
+ANGPT2,negative regulation of positive chemotaxis,0.598166722,8,chemotaxis
+ANGPT2,positive regulation of angiogenesis,0.598166722,8,angiogenesis
+ANGPT2,regulation of angiogenesis,0.598166722,8,angiogenesis
+ANGPT2,vascular endothelial growth factor receptor binding,0.598166722,8,growth factor signaling
+ANXA7,autophagy,0.561385621,8,autophagy
+ANXA7,calcium-dependent phospholipid binding,0.561385621,8,calcium channel activity
+ANXA7,calcium-dependent protein binding,0.561385621,8,calcium channel activity
+ANXA7,calcium ion binding,0.561385621,8,calcium channel activity
+ANXA7,collagen-containing extracellular matrix,0.561385621,8,ECM component
+ANXA7,intracellular calcium ion homeostasis,0.561385621,8,calcium channel activity
+ANXA7,response to calcium ion,0.561385621,8,calcium channel activity
+CCL1,antimicrobial humoral immune response mediated by antimicrobial peptide,0.583627953,12,immune response
+CCL1,CCR chemokine receptor binding,0.583627953,12,chemotaxis
+CCL1,cellular response to interleukin-1,0.583627953,12,cell response to cytokines
+CCL1,cellular response to interleukin-17,0.583627953,12,cell response to cytokines
+CCL1,chemokine activity,0.583627953,12,chemotaxis
+CCL1,chemokine activity,0.583627953,12,chemotaxis
+CCL1,chemokine-mediated signaling pathway,0.583627953,12,chemotaxis
+CCL1,chemotaxis,0.583627953,12,chemotaxis
+CCL1,cytokine activity,0.583627953,12,cell response to cytokines
+CCL1,eosinophil chemotaxis,0.583627953,12,chemotaxis
+CCL1,immune response,0.583627953,12,immune response
+CCL1,inflammatory response,0.583627953,12,inflammatory response
+CCL1,lymphocyte chemotaxis,0.583627953,12,chemotaxis
+CCL1,monocyte chemotaxis,0.583627953,12,chemotaxis
+CCL1,neutrophil chemotaxis,0.583627953,12,chemotaxis
+CCL1,positive regulation of cytosolic calcium ion concentration,0.583627953,12,calcium channel activity
+CCL1,positive regulation of ERK1 and ERK2 cascade,0.583627953,12,ERK/MAPK signaling response
+CCL1,positive regulation of inflammatory response,0.583627953,12,inflammatory response
+CCL1,positive regulation of interleukin-17 production,0.583627953,12,cell response to cytokines
+CCL1,positive regulation of monocyte chemotaxis,0.583627953,12,chemotaxis
+CCL22,antimicrobial humoral immune response mediated by antimicrobial peptide,0.553272043,8,immune response
+CCL22,CCR chemokine receptor binding,0.553272043,8,chemotaxis
+CCL22,cellular response to interleukin-1,0.553272043,8,cell response to cytokines
+CCL22,chemokine activity,0.553272043,8,chemotaxis
+CCL22,chemokine-mediated signaling pathway,0.553272043,8,chemotaxis
+CCL22,chemotaxis,0.553272043,8,chemotaxis
+CCL22,cytokine activity,0.553272043,8,cell response to cytokines
+CCL22,eosinophil chemotaxis,0.553272043,8,chemotaxis
+CCL22,immune response,0.553272043,8,immune response
+CCL22,inflammatory response,0.553272043,8,inflammatory response
+CCL22,lymphocyte chemotaxis,0.553272043,8,chemotaxis
+CCL22,monocyte chemotaxis,0.553272043,8,chemotaxis
+CCL22,neutrophil chemotaxis,0.553272043,8,chemotaxis
+CCL22,positive regulation of ERK1 and ERK2 cascade,0.553272043,8,ERK/MAPK signaling response
+CD226,cell adhesion,0.557081132,12,cell adhesion
+CD226,cell adhesion molecule binding,0.557081132,12,cell adhesion
+CD226,cytokine production,0.557081132,12,cell response to cytokines
+CD226,cytokine production,0.557081132,12,cell response to cytokines
+CD226,natural killer cell cytokine production,0.557081132,12,cell response to cytokines
+CD226,positive regulation of immunoglobulin mediated immune response,0.557081132,12,immune response
+CD226,positive regulation of immunoglobulin mediated immune response,0.557081132,12,immune response
+CD226,positive regulation of mast cell activation,0.557081132,12,T cell mediated response
+CD226,positive regulation of mast cell activation,0.557081132,12,T cell mediated response
+CD226,positive regulation of natural killer cell cytokine production,0.557081132,12,cell response to cytokines
+CD226,positive regulation of natural killer cell cytokine production,0.557081132,12,cell response to cytokines
+CD226,positive regulation of T cell receptor signaling pathway,0.557081132,12,T cell mediated response
+CD226,positive regulation of T cell receptor signaling pathway,0.557081132,12,T cell mediated response
+CD80,immune response,0.533585031,8,immune response
+CD80,negative regulation of T cell mediated immunity,0.533585031,8,T cell mediated response
+CD80,negative regulation of T cell proliferation,0.533585031,8,T cell mediated response
+CD80,positive regulation of alpha-beta T cell proliferation,0.533585031,8,T cell mediated response
+CD80,positive regulation of T cell proliferation,0.533585031,8,T cell mediated response
+CD80,positive regulation of T cell proliferation,0.533585031,8,T cell mediated response
+CD80,positive regulation of T cell proliferation,0.533585031,8,T cell mediated response
+CD80,protein complex involved in cell adhesion,0.533585031,8,cell adhesion
+CD80,T cell activation,0.533585031,8,T cell mediated response
+CD80,T cell costimulation,0.533585031,8,T cell mediated response
+CD80,T cell costimulation,0.533585031,8,T cell mediated response
+CREG1,autophagy,0.653876499,8,autophagy
+CREG1,insulin-like growth factor receptor binding,0.653876499,8,growth factor signaling
+CTLA4,adaptive immune response,0.598067711,8,immune response
+CTLA4,immune response,0.598067711,8,immune response
+CTLA4,immune system process,0.598067711,8,immune response
+CTLA4,negative regulation of regulatory T cell differentiation,0.598067711,8,T cell mediated response
+CTLA4,negative regulation of regulatory T cell differentiation,0.598067711,8,T cell mediated response
+CTLA4,negative regulation of T cell proliferation,0.598067711,8,T cell mediated response
+CTLA4,positive regulation of apoptotic process,0.598067711,8,apoptotic process
+CTLA4,protein complex involved in cell adhesion,0.598067711,8,cell adhesion
+CTLA4,regulation of T cell proliferation,0.598067711,8,T cell mediated response
+CTLA4,T cell receptor signaling pathway,0.598067711,8,T cell mediated response
+DSPP,cellular response to cell-matrix adhesion,0.56627109,8,cell adhesion
+DSPP,collagen-containing extracellular matrix,0.56627109,8,ECM component
+DSPP,extracellular matrix,0.56627109,8,ECM component
+DSPP,gene expression involved in extracellular matrix organization,0.56627109,8,ECM component
+DSPP,negative regulation of mesenchymal cell apoptotic process,0.56627109,8,apoptotic process
+DSPP,positive regulation of calcium ion import,0.56627109,8,calcium channel activity
+DUSP5,negative regulation of MAPK cascade,0.538327636,8,ERK/MAPK signaling response
+EGFR,cell-cell adhesion,0.531664798,8,cell adhesion
+EGFR,cellular response to epidermal growth factor stimulus,0.531664798,8,growth factor signaling
+EGFR,cellular response to growth factor stimulus,0.531664798,8,growth factor signaling
+EGFR,cerebral cortex cell migration,0.531664798,8,cell migration
+EGFR,epidermal growth factor binding,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor binding,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor binding,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor activity,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor activity,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor activity,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor activity,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor activity,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor signaling pathway,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor signaling pathway,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor signaling pathway,0.531664798,8,growth factor signaling
+EGFR,epidermal growth factor receptor signaling pathway,0.531664798,8,growth factor signaling
+EGFR,negative regulation of apoptotic process,0.531664798,8,apoptotic process
+EGFR,negative regulation of apoptotic process,0.531664798,8,apoptotic process
+EGFR,nitric-oxide synthase regulator activity,0.531664798,8,response to nitric oxide
+EGFR,positive regulation of canonical Wnt signaling pathway,0.531664798,8,Wnt/beta-catenin pathway
+EGFR,positive regulation of cell migration,0.531664798,8,cell migration
+EGFR,positive regulation of cell population proliferation,0.531664798,8,cell proliferation
+EGFR,positive regulation of ERK1 and ERK2 cascade,0.531664798,8,ERK/MAPK signaling response
+EGFR,positive regulation of MAPK cascade,0.531664798,8,ERK/MAPK signaling response
+EGFR,positive regulation of NIK/NF-kappaB signaling,0.531664798,8,NF-kappaB factor activity
+EGFR,positive regulation of nitric oxide mediated signal transduction,0.531664798,8,response to nitric oxide
+EGFR,positive regulation of superoxide anion generation,0.531664798,8,response to oxidative stress
+EGFR,regulation of ERK1 and ERK2 cascade,0.531664798,8,ERK/MAPK signaling response
+EGFR,regulation of nitric-oxide synthase activity,0.531664798,8,response to nitric oxide
+EGFR,response to calcium ion,0.531664798,8,calcium channel activity
+F13A1,collagen-containing extracellular matrix,0.578597229,8,ECM component
+FCER2,B cell antigen processing and presentation,0.590110693,8,antigen processing
+FCER2,Fc receptor-mediated immune complex endocytosis,0.590110693,8,immune response
+FCER2,immune response,0.590110693,8,immune response
+FCER2,macrophage activation,0.590110693,8,macrophage signaling response
+FCER2,positive regulation of humoral immune response mediated by circulating immunoglobulin,0.590110693,8,immune response
+FCER2,positive regulation of nitric-oxide synthase activity,0.590110693,8,response to nitric oxide
+FCER2,positive regulation of nitric-oxide synthase biosynthetic process,0.590110693,8,response to nitric oxide
+FOXF1,cell-cell adhesion,0.535268301,8,cell adhesion
+FOXF1,cellular response to cytokine stimulus,0.535268301,8,cell response to cytokines
+FOXF1,extracellular matrix organization,0.535268301,8,ECM component
+FOXF1,mesenchyme migration,0.535268301,8,cell migration
+FOXF1,negative regulation of inflammatory response,0.535268301,8,inflammatory response
+FOXF1,negative regulation of mast cell degranulation,0.535268301,8,T cell mediated response
+FOXF1,positive regulation of cell migration,0.535268301,8,cell migration
+FOXF1,positive regulation of cell-substrate adhesion,0.535268301,8,cell adhesion
+FOXF1,smooth muscle cell differentiation,0.535268301,8,cell differentiation
+HEY2,cardiac muscle cell apoptotic process,0.561476008,12,apoptotic process
+HEY2,negative regulation of cardiac muscle cell apoptotic process,0.561476008,12,apoptotic process
+HEY2,negative regulation of Notch signaling pathway,0.561476008,12,Notch signaling response
+HEY2,negative regulation of Notch signaling pathway,0.561476008,12,Notch signaling response
+HEY2,Notch signaling involved in heart development,0.561476008,12,Notch signaling response
+HEY2,Notch signaling pathway,0.561476008,12,Notch signaling response
+HEY2,Notch signaling pathway,0.561476008,12,Notch signaling response
+HEY2,Notch signaling pathway,0.561476008,12,Notch signaling response
+IER3,negative regulation of apoptotic process,0.546511994,8,apoptotic process
+IER3,negative regulation of inflammatory response,0.546511994,8,inflammatory response
+ITGB1,adherens junction,0.532442829,8,junction assembly
+ITGB1,calcium-independent cell-matrix adhesion,0.532442829,8,cell adhesion
+ITGB1,calcium ion binding,0.532442829,8,calcium channel activity
+ITGB1,cell adhesion,0.532442829,8,cell adhesion
+ITGB1,cell adhesion mediated by integrin,0.532442829,8,cell adhesion
+ITGB1,cell adhesion mediated by integrin,0.532442829,8,cell adhesion
+ITGB1,cell adhesion molecule binding,0.532442829,8,cell adhesion
+ITGB1,cell-matrix adhesion,0.532442829,8,cell adhesion
+ITGB1,cell-matrix adhesion,0.532442829,8,cell adhesion
+ITGB1,cell-matrix adhesion,0.532442829,8,cell adhesion
+ITGB1,cell-matrix adhesion,0.532442829,8,cell adhesion
+ITGB1,cell migration,0.532442829,8,cell migration
+ITGB1,cell migration involved in sprouting angiogenesis,0.532442829,8,cell migration
+ITGB1,C-X3-C chemokine binding,0.532442829,8,chemotaxis
+ITGB1,C-X3-C chemokine binding,0.532442829,8,chemotaxis
+ITGB1,fibroblast migration,0.532442829,8,cell migration
+ITGB1,germ cell migration,0.532442829,8,cell migration
+ITGB1,negative regulation of apoptotic process,0.532442829,8,apoptotic process
+ITGB1,negative regulation of cell population proliferation,0.532442829,8,cell proliferation
+ITGB1,positive regulation of angiogenesis,0.532442829,8,angiogenesis
+ITGB1,positive regulation of apoptotic process,0.532442829,8,apoptotic process
+ITGB1,positive regulation of cell migration,0.532442829,8,cell migration
+ITGB1,positive regulation of fibroblast migration,0.532442829,8,cell migration
+KAT2B,negative regulation of cell population proliferation,0.535610105,15,cell proliferation
+LGALS1,apoptotic process,0.577453373,8,apoptotic process
+LGALS1,collagen-containing extracellular matrix,0.577453373,8,ECM component
+LGALS1,positive regulation of apoptotic process,0.577453373,8,apoptotic process
+LGALS1,positive regulation of inflammatory response,0.577453373,8,inflammatory response
+LGALS1,positive regulation of viral entry into host cell,0.577453373,8,T cell mediated response
+LGALS1,T cell costimulation,0.577453373,8,T cell mediated response
+NFKBIA,cellular response to cytokine stimulus,0.652933245,8,cell response to cytokines
+NFKBIA,cytoplasmic sequestering of NF-kappaB,0.652933245,8,NF-kappaB factor activity
+NFKBIA,cytoplasmic sequestering of NF-kappaB,0.652933245,8,NF-kappaB factor activity
+NFKBIA,I-kappaB kinase/NF-kappaB signaling,0.652933245,8,NF-kappaB factor activity
+NFKBIA,negative regulation of macrophage derived foam cell differentiation,0.652933245,8,macrophage signaling response
+NFKBIA,negative regulation of NF-kappaB transcription factor activity,0.652933245,8,NF-kappaB factor activity
+NFKBIA,negative regulation of Notch signaling pathway,0.652933245,8,Notch signaling response
+NFKBIA,NF-kappaB binding,0.652933245,8,NF-kappaB factor activity
+NFKBIA,NF-kappaB binding,0.652933245,8,NF-kappaB factor activity
+NFKBIA,NIK/NF-kappaB signaling,0.652933245,8,NF-kappaB factor activity
+NFKBIA,Notch signaling pathway,0.652933245,8,Notch signaling response
+NFKBIA,positive regulation of inflammatory response,0.652933245,8,inflammatory response
+NFKBIA,regulation of cell population proliferation,0.652933245,8,cell proliferation
+NFKBIA,toll-like receptor 4 signaling pathway,0.652933245,8,TLR pathway
+NTF4,growth factor activity,0.542841598,8,growth factor signaling
+NTF4,negative regulation of neuron apoptotic process,0.542841598,8,apoptotic process
+NTF4,nerve growth factor receptor binding,0.542841598,8,growth factor signaling
+NTF4,nerve growth factor signaling pathway,0.542841598,8,growth factor signaling
+PNLIPRP2,calcium ion binding,0.57521717,8,calcium channel activity
+PRLH,fat cell differentiation,0.591904591,8,T cell mediated response
+RIPK2,adaptive immune response,0.566280025,8,immune response
+RIPK2,apoptotic process,0.566280025,8,apoptotic process
+RIPK2,"CD4-positive, alpha-beta T cell proliferation",0.566280025,8,T cell mediated response
+RIPK2,chemokine production,0.566280025,8,chemotaxis
+RIPK2,cytokine-mediated signaling pathway,0.566280025,8,cell response to cytokines
+RIPK2,ERK1 and ERK2 cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,ERK1 and ERK2 cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,I-kappaB kinase/NF-kappaB signaling,0.566280025,8,NF-kappaB factor activity
+RIPK2,immature T cell proliferation in thymus,0.566280025,8,T cell mediated response
+RIPK2,immune system process,0.566280025,8,immune response
+RIPK2,innate immune response,0.566280025,8,immune response
+RIPK2,innate immune response,0.566280025,8,immune response
+RIPK2,innate immune response,0.566280025,8,immune response
+RIPK2,interleukin-2 production,0.566280025,8,cell response to cytokines
+RIPK2,interleukin-6 production,0.566280025,8,cell response to cytokines
+RIPK2,macrophage cytokine production,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of apoptotic process,0.566280025,8,apoptotic process
+RIPK2,"positive regulation of CD4-positive, alpha-beta T cell proliferation",0.566280025,8,T cell mediated response
+RIPK2,positive regulation of chemokine production,0.566280025,8,chemotaxis
+RIPK2,positive regulation of cytokine-mediated signaling pathway,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of ERK1 and ERK2 cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,positive regulation of ERK1 and ERK2 cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,positive regulation of I-kappaB kinase/NF-kappaB signaling,0.566280025,8,NF-kappaB factor activity
+RIPK2,positive regulation of I-kappaB kinase/NF-kappaB signaling,0.566280025,8,NF-kappaB factor activity
+RIPK2,positive regulation of I-kappaB kinase/NF-kappaB signaling,0.566280025,8,NF-kappaB factor activity
+RIPK2,positive regulation of immature T cell proliferation in thymus,0.566280025,8,T cell mediated response
+RIPK2,positive regulation of interleukin-1 beta production,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of interleukin-2 production,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of interleukin-6 production,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of macrophage cytokine production,0.566280025,8,cell response to cytokines
+RIPK2,positive regulation of NF-kappaB transcription factor activity,0.566280025,8,NF-kappaB factor activity
+RIPK2,positive regulation of NF-kappaB transcription factor activity,0.566280025,8,NF-kappaB factor activity
+RIPK2,positive regulation of stress-activated MAPK cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,positive regulation of T-helper 1 type immune response,0.566280025,8,immune response
+RIPK2,regulation of apoptotic process,0.566280025,8,apoptotic process
+RIPK2,response to interleukin-1,0.566280025,8,cell response to cytokines
+RIPK2,response to interleukin-12,0.566280025,8,cell response to cytokines
+RIPK2,response to interleukin-18,0.566280025,8,cell response to cytokines
+RIPK2,stress-activated MAPK cascade,0.566280025,8,ERK/MAPK signaling response
+RIPK2,T cell proliferation,0.566280025,8,T cell mediated response
+RIPK2,T cell receptor signaling pathway,0.566280025,8,T cell mediated response
+RIPK2,toll-like receptor 2 signaling pathway,0.566280025,8,TLR pathway
+RIPK2,toll-like receptor 4 signaling pathway,0.566280025,8,TLR pathway
+SERPINB1,collagen-containing extracellular matrix,0.58288039,8,ECM component
+SERPINB1,inflammatory response,0.58288039,8,inflammatory response
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SERPINB1,regulation of innate immune response,0.58288039,8,immune response
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SERPINB1,negative regulation of interleukin-1 beta production,0.58288039,8,cell response to cytokines
+SESN1,cellular oxidant detoxification,0.552328322,8,response to oxidative stress
+SESN1,oxidoreductase activity,0.552328322,8,response to oxidative stress
+SNAP23,adherens junction,0.64523171,8,junction assembly
+SNAP23,histamine secretion by mast cell,0.64523171,8,T cell mediated response
+STK16,cellular response to transforming growth factor beta stimulus,0.610496439,8,growth factor signaling
+SUCNR1,interleukin-1 beta production,0.568118008,8,cell response to cytokines
+SUCNR1,interleukin-1 beta production,0.568118008,8,cell response to cytokines
+SUCNR1,macrophage activation involved in immune response,0.568118008,8,immune response
+SUCNR1,macrophage cytokine production,0.568118008,8,cell response to cytokines
+SUCNR1,positive regulation of chemotaxis,0.568118008,8,chemotaxis
+SUCNR1,positive regulation of inflammatory response,0.568118008,8,inflammatory response
+SUCNR1,response to calcium ion,0.568118008,8,calcium channel activity
+TAP,actin cytoskeleton organization,0.675352193,12,actin cytoskeleton
+TAP,adaptive immune response,0.675352193,12,immune response
+TAP,immune system process,0.675352193,12,immune response
+TMSB10,actin cytoskeleton organization,0.571898549,11,actin cytoskeleton
+TMSB10,regulation of cell migration,0.571898549,11,cell migration
+TYK2,cell differentiation,0.762783472,8,cell differentiation
+TYK2,cytokine-mediated signaling pathway,0.762783472,8,cell response to cytokines
+TYK2,cytokine receptor binding,0.762783472,8,cell response to cytokines
+TYK2,immune response,0.762783472,8,immune response
+TYK2,interleukin-12-mediated signaling pathway,0.762783472,8,cell response to cytokines
+TYK2,interleukin-12 receptor complex,0.762783472,8,cell response to cytokines
+TYK2,interleukin-23 receptor complex,0.762783472,8,cell response to cytokines
+TYK2,positive regulation of interleukin-17 production,0.762783472,8,cell response to cytokines
+TYK2,positive regulation of natural killer cell proliferation,0.762783472,8,cell proliferation
+TYK2,positive regulation of NK T cell proliferation,0.762783472,8,T cell mediated response
+TYK2,positive regulation of NK T cell proliferation,0.762783472,8,T cell mediated response
+TYK2,positive regulation of receptor signaling pathway via JAK-STAT,0.762783472,8,JAK-STAT pathway
+TYK2,positive regulation of T cell proliferation,0.762783472,8,T cell mediated response
+TYK2,positive regulation of T cell proliferation,0.762783472,8,T cell mediated response
+TYK2,positive regulation of T-helper 17 type immune response,0.762783472,8,immune response
+TYK2,receptor signaling pathway via JAK-STAT,0.762783472,8,JAK-STAT pathway
+VEGFA,adherens junction,0.563661532,8,junction assembly
+VEGFA,angiogenesis,0.563661532,8,angiogenesis
+VEGFA,angiogenesis,0.563661532,8,angiogenesis
+VEGFA,angiogenesis,0.563661532,8,angiogenesis
+VEGFA,angiogenesis,0.563661532,8,angiogenesis
+VEGFA,angiogenesis involved in coronary vascular morphogenesis,0.563661532,8,angiogenesis
+VEGFA,apoptotic process,0.563661532,8,apoptotic process
+VEGFA,basophil chemotaxis,0.563661532,8,chemotaxis
+VEGFA,cell-cell adhesion,0.563661532,8,cell adhesion
+VEGFA,cell chemotaxis,0.563661532,8,chemotaxis
+VEGFA,cell differentiation,0.563661532,8,cell differentiation
+VEGFA,cell migration,0.563661532,8,cell migration
+VEGFA,cell migration,0.563661532,8,cell migration
+VEGFA,cell migration involved in sprouting angiogenesis,0.563661532,8,cell migration
+VEGFA,cell population proliferation,0.563661532,8,cell proliferation
+VEGFA,cellular response to vascular endothelial growth factor stimulus,0.563661532,8,growth factor signaling
+VEGFA,cellular response to vascular endothelial growth factor stimulus,0.563661532,8,growth factor signaling
+VEGFA,cytokine activity,0.563661532,8,cell response to cytokines
+VEGFA,endothelial cell chemotaxis,0.563661532,8,chemotaxis
+VEGFA,endothelial cell migration,0.563661532,8,cell migration
+VEGFA,extracellular matrix binding,0.563661532,8,ECM component
+VEGFA,growth factor activity,0.563661532,8,growth factor signaling
+VEGFA,growth factor activity,0.563661532,8,growth factor signaling
+VEGFA,growth factor activity,0.563661532,8,growth factor signaling
+VEGFA,growth factor binding,0.563661532,8,growth factor signaling
+VEGFA,induction of positive chemotaxis,0.563661532,8,chemotaxis
+VEGFA,induction of positive chemotaxis,0.563661532,8,chemotaxis
+VEGFA,kidney development,0.563661532,8,kidney development
+VEGFA,lymphangiogenesis,0.563661532,8,angiogenesis
+VEGFA,lymphangiogenesis,0.563661532,8,angiogenesis
+VEGFA,macrophage differentiation,0.563661532,8,macrophage signaling response
+VEGFA,monocyte differentiation,0.563661532,8,macrophage signaling response
+VEGFA,motor neuron migration,0.563661532,8,cell migration
+VEGFA,negative regulation of adherens junction organization,0.563661532,8,junction assembly
+VEGFA,negative regulation of apoptotic process,0.563661532,8,apoptotic process
+VEGFA,negative regulation of apoptotic process,0.563661532,8,apoptotic process
+VEGFA,negative regulation of cell-cell adhesion,0.563661532,8,cell adhesion
+VEGFA,negative regulation of cell-cell adhesion mediated by cadherin,0.563661532,8,cell adhesion
+VEGFA,negative regulation of cysteine-type endopeptidase activity involved in apoptotic process,0.563661532,8,apoptotic process
+VEGFA,negative regulation of fat cell differentiation,0.563661532,8,T cell mediated response
+VEGFA,negative regulation of neuron apoptotic process,0.563661532,8,apoptotic process
+VEGFA,platelet-derived growth factor receptor binding,0.563661532,8,growth factor signaling
+VEGFA,positive chemotaxis,0.563661532,8,chemotaxis
+VEGFA,positive chemotaxis,0.563661532,8,chemotaxis
+VEGFA,positive regulation of angiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of angiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of angiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of blood vessel endothelial cell migration,0.563661532,8,cell migration
+VEGFA,positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of cell adhesion,0.563661532,8,cell adhesion
+VEGFA,positive regulation of cell migration,0.563661532,8,cell migration
+VEGFA,positive regulation of cell migration by vascular endothelial growth factor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,positive regulation of cell migration involved in sprouting angiogenesis,0.563661532,8,cell migration
+VEGFA,positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,positive regulation of endothelial cell migration,0.563661532,8,cell migration
+VEGFA,positive regulation of ERK1 and ERK2 cascade,0.563661532,8,ERK/MAPK signaling response
+VEGFA,positive regulation of ERK1 and ERK2 cascade,0.563661532,8,ERK/MAPK signaling response
+VEGFA,positive regulation of lymphangiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of MAPK cascade,0.563661532,8,ERK/MAPK signaling response
+VEGFA,positive regulation of p38MAPK cascade,0.563661532,8,ERK/MAPK signaling response
+VEGFA,positive regulation of positive chemotaxis,0.563661532,8,chemotaxis
+VEGFA,positive regulation of sprouting angiogenesis,0.563661532,8,angiogenesis
+VEGFA,positive regulation of trophoblast cell migration,0.563661532,8,T cell mediated response
+VEGFA,positive regulation of vascular endothelial growth factor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,positive regulation of vascular permeability,0.563661532,8,vascular permeability
+VEGFA,positive regulation of vascular permeability,0.563661532,8,vascular permeability
+VEGFA,regulation of endothelial cell differentiation,0.563661532,8,cell differentiation
+VEGFA,regulation of nitric oxide mediated signal transduction,0.563661532,8,response to nitric oxide
+VEGFA,sprouting angiogenesis,0.563661532,8,angiogenesis
+VEGFA,sprouting angiogenesis,0.563661532,8,angiogenesis
+VEGFA,T-helper 1 type immune response,0.563661532,8,immune response
+VEGFA,vascular endothelial growth factor receptor 1 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 1 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 1 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 2 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 2 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 2 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor 2 binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor-2 signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor binding,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor receptor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor signaling pathway,0.563661532,8,growth factor signaling
+VEGFA,vascular endothelial growth factor signaling pathway,0.563661532,8,growth factor signaling

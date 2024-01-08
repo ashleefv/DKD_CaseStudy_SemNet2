@@ -1,0 +1,266 @@
+Input,Term,mean_hetesim_score,count,term_uniID
+ADAM19,collagen-containing extracellular matrix,0.609246104,8,ECM component
+ANGPT2,glomerulus vasculature development,0.569058439,8,glomerulus development
+ANGPT2,negative regulation of angiogenesis,0.569058439,8,angiogenesis
+ANGPT2,negative regulation of blood vessel endothelial cell migration,0.569058439,8,cell migration
+ANGPT2,negative regulation of positive chemotaxis,0.569058439,8,chemotaxis
+ANGPT2,positive regulation of angiogenesis,0.569058439,8,angiogenesis
+ANGPT2,regulation of angiogenesis,0.569058439,8,angiogenesis
+ANGPT2,vascular endothelial growth factor receptor binding,0.569058439,8,growth factor signaling
+ARG1,adaptive immune response,0.533411601,8,immune response
+ARG1,collagen-containing extracellular matrix,0.533411601,8,ECM component
+ARG1,immune system process,0.533411601,8,immune response
+ARG1,innate immune response,0.533411601,8,immune response
+ARG1,negative regulation of activated T cell proliferation,0.533411601,8,T cell mediated response
+ARG1,negative regulation of T cell proliferation,0.533411601,8,T cell mediated response
+CCL11,antimicrobial humoral immune response mediated by antimicrobial peptide,0.564251449,8,immune response
+CCL11,CCR chemokine receptor binding,0.564251449,8,chemotaxis
+CCL11,CCR3 chemokine receptor binding,0.564251449,8,chemotaxis
+CCL11,chemokine activity,0.564251449,8,chemotaxis
+CCL11,chemokine activity,0.564251449,8,chemotaxis
+CCL11,chemokine-mediated signaling pathway,0.564251449,8,chemotaxis
+CCL11,chemotaxis,0.564251449,8,chemotaxis
+CCL11,cytokine activity,0.564251449,8,cell response to cytokines
+CCL11,ERK1 and ERK2 cascade,0.564251449,8,ERK/MAPK signaling response
+CCL11,immune response,0.564251449,8,immune response
+CCL11,inflammatory response,0.564251449,8,inflammatory response
+CCL11,lymphocyte chemotaxis,0.564251449,8,chemotaxis
+CCL11,mast cell chemotaxis,0.564251449,8,T cell mediated response
+CCL11,positive regulation of angiogenesis,0.564251449,8,angiogenesis
+CCL11,positive regulation of cell migration,0.564251449,8,cell migration
+CCL11,positive regulation of ERK1 and ERK2 cascade,0.564251449,8,ERK/MAPK signaling response
+CCN5,cell adhesion,0.592146607,8,cell adhesion
+CCN5,growth factor activity,0.592146607,8,growth factor signaling
+CD3D,adaptive immune response,0.611155508,12,immune response
+CD3D,alpha-beta T cell receptor complex,0.611155508,12,T cell mediated response
+CD3D,alpha-beta T cell receptor complex,0.611155508,12,T cell mediated response
+CD3D,alpha-beta T cell receptor complex,0.611155508,12,T cell mediated response
+CD3D,immune system process,0.611155508,12,immune response
+CD3D,positive thymic T cell selection,0.611155508,12,T cell mediated response
+CD3D,positive thymic T cell selection,0.611155508,12,T cell mediated response
+CD3D,T cell activation,0.611155508,12,T cell mediated response
+CD3D,T cell receptor complex,0.611155508,12,T cell mediated response
+CD3D,T cell receptor complex,0.611155508,12,T cell mediated response
+CD8,adaptive immune response,0.539091953,12,immune response
+CD8,calcium-mediated signaling,0.539091953,12,calcium channel activity
+CD8,cytotoxic T cell differentiation,0.539091953,12,T cell mediated response
+CD8,cytotoxic T cell differentiation,0.539091953,12,T cell mediated response
+CD8,immune system process,0.539091953,12,immune response
+CD8,positive regulation of calcium-mediated signaling,0.539091953,12,calcium channel activity
+CD8,T cell activation,0.539091953,12,T cell mediated response
+CD8,T cell mediated immunity,0.539091953,12,T cell mediated response
+CD8,T cell mediated immunity,0.539091953,12,T cell mediated response
+CD8,T cell receptor signaling pathway,0.539091953,12,T cell mediated response
+CRX,cell differentiation,0.533962481,8,cell differentiation
+DDX58,actin cytoskeleton,0.558081852,8,actin cytoskeleton
+DDX58,antiviral innate immune response,0.558081852,8,immune response
+DDX58,antiviral innate immune response,0.558081852,8,immune response
+DDX58,immune system process,0.558081852,8,immune response
+DDX58,innate immune response,0.558081852,8,immune response
+DDX58,innate immune response,0.558081852,8,immune response
+DDX58,positive regulation of interferon-alpha production,0.558081852,8,cell response to cytokines
+DDX58,positive regulation of interferon-beta production,0.558081852,8,cell response to cytokines
+DDX58,positive regulation of interleukin-6 production,0.558081852,8,cell response to cytokines
+DDX58,positive regulation of interleukin-8 production,0.558081852,8,cell response to cytokines
+DDX58,positive regulation of response to cytokine stimulus,0.558081852,8,cell response to cytokines
+DDX58,regulation of cell migration,0.558081852,8,cell migration
+EBAG9,adaptive immune memory response involving T cells and B cells,0.543285954,8,T cell mediated response
+EBAG9,apoptotic process,0.543285954,8,apoptotic process
+EBAG9,T cell mediated cytotoxicity,0.543285954,8,T cell mediated response
+EPHB4,angiogenesis,0.530807388,8,angiogenesis
+EPHB4,angiogenesis,0.530807388,8,angiogenesis
+EPHB4,cell adhesion,0.530807388,8,cell adhesion
+EPHB4,cell migration involved in sprouting angiogenesis,0.530807388,8,cell migration
+EPHB4,positive regulation of T cell costimulation,0.530807388,8,T cell mediated response
+FGF20,cell differentiation,0.595644147,8,cell differentiation
+FGF20,fibroblast growth factor receptor binding,0.595644147,8,growth factor signaling
+FGF20,fibroblast growth factor receptor binding,0.595644147,8,growth factor signaling
+FGF20,fibroblast growth factor receptor signaling pathway,0.595644147,8,growth factor signaling
+FGF20,fibroblast growth factor receptor signaling pathway,0.595644147,8,growth factor signaling
+FGF20,growth factor activity,0.595644147,8,growth factor signaling
+FGF20,positive regulation of ERK1 and ERK2 cascade,0.595644147,8,ERK/MAPK signaling response
+FGF20,regulation of cell migration,0.595644147,8,cell migration
+FOXD3,cell differentiation,0.545039444,8,cell differentiation
+GSDMD,immune system process,0.534985399,8,immune response
+GSDMD,inflammatory response,0.534985399,8,inflammatory response
+GSDMD,innate immune response,0.534985399,8,immune response
+GSDMD,NLRP3 inflammasome complex,0.534985399,8,inflammatory response
+GSDMD,NLRP3 inflammasome complex,0.534985399,8,inflammatory response
+GSDMD,positive regulation of inflammatory response,0.534985399,8,inflammatory response
+GSDMD,positive regulation of inflammatory response,0.534985399,8,inflammatory response
+GSDMD,positive regulation of interleukin-1 beta production,0.534985399,8,cell response to cytokines
+GSDMD,positive regulation of interleukin-1 production,0.534985399,8,cell response to cytokines
+GSDMD,positive regulation of interleukin-18 production,0.534985399,8,cell response to cytokines
+GZMA,cytotoxic T cell pyroptotic process,0.643570567,8,T cell mediated response
+GZMA,negative regulation of oxidoreductase activity,0.643570567,8,response to oxidative stress
+GZMA,negative regulation of oxidoreductase activity,0.643570567,8,response to oxidative stress
+GZMA,positive regulation of apoptotic process,0.643570567,8,apoptotic process
+GZMA,positive regulation of apoptotic process,0.643570567,8,apoptotic process
+HK1,carbohydrate metabolic process,0.538396496,8,glucose metabolism
+HK1,cell differentiation,0.538396496,8,cell differentiation
+HK1,glucose 6-phosphate metabolic process,0.538396496,8,glucose metabolism
+HK1,glucose 6-phosphate metabolic process,0.538396496,8,glucose metabolism
+HK1,glucose metabolic process,0.538396496,8,glucose metabolism
+HK1,growth factor activity,0.538396496,8,growth factor signaling
+HK1,growth factor activity,0.538396496,8,growth factor signaling
+HK1,immune system process,0.538396496,8,immune response
+HK1,inflammatory response,0.538396496,8,inflammatory response
+HK1,inflammatory response,0.538396496,8,inflammatory response
+HK1,innate immune response,0.538396496,8,immune response
+HK1,mast cell degranulation,0.538396496,8,T cell mediated response
+HK1,negative regulation of apoptotic process,0.538396496,8,apoptotic process
+HK1,positive regulation of cytokine production involved in immune response,0.538396496,8,immune response
+HK1,positive regulation of interleukin-1 beta production,0.538396496,8,cell response to cytokines
+H-ras,insulin-like growth factor receptor signaling pathway,0.566478542,8,growth factor signaling
+H-ras,intrinsic apoptotic signaling pathway,0.566478542,8,apoptotic process
+H-ras,intrinsic apoptotic signaling pathway,0.566478542,8,apoptotic process
+H-ras,positive regulation of cell migration,0.566478542,8,cell migration
+H-ras,positive regulation of ERK1 and ERK2 cascade,0.566478542,8,ERK/MAPK signaling response
+H-ras,positive regulation of MAP kinase activity,0.566478542,8,ERK/MAPK signaling response
+H-ras,positive regulation of MAPK cascade,0.566478542,8,ERK/MAPK signaling response
+H-ras,regulation of MAP kinase activity,0.566478542,8,ERK/MAPK signaling response
+H-ras,T cell receptor signaling pathway,0.566478542,8,T cell mediated response
+H-ras,T-helper 1 type immune response,0.566478542,8,immune response
+IL10,cytokine activity,0.556174428,8,cell response to cytokines
+IL10,cytokine activity,0.556174428,8,cell response to cytokines
+IL10,immune response,0.556174428,8,immune response
+IL10,interleukin-10 receptor binding,0.556174428,8,cell response to cytokines
+IL10,negative regulation of apoptotic process,0.556174428,8,apoptotic process
+IL10,negative regulation of chronic inflammatory response to antigenic stimulus,0.556174428,8,inflammatory response
+IL10,negative regulation of cytokine activity,0.556174428,8,cell response to cytokines
+IL10,negative regulation of cytokine production,0.556174428,8,cell response to cytokines
+IL10,negative regulation of cytokine production involved in immune response,0.556174428,8,cell response to cytokines
+IL10,negative regulation of inflammatory response,0.556174428,8,inflammatory response
+IL10,negative regulation of inflammatory response,0.556174428,8,inflammatory response
+IL10,negative regulation of interleukin-12 production,0.556174428,8,cell response to cytokines
+IL10,negative regulation of interleukin-6 production,0.556174428,8,cell response to cytokines
+IL10,negative regulation of nitric oxide biosynthetic process,0.556174428,8,response to nitric oxide
+IL10,positive regulation of cytokine production,0.556174428,8,cell response to cytokines
+IL10,positive regulation of macrophage activation,0.556174428,8,macrophage signaling response
+IL10,positive regulation of receptor signaling pathway via JAK-STAT,0.556174428,8,JAK-STAT pathway
+INVS,kidney development,0.5934646,8,kidney development
+INVS,negative regulation of canonical Wnt signaling pathway,0.5934646,8,Wnt/beta-catenin pathway
+INVS,Wnt signaling pathway,0.5934646,8,Wnt/beta-catenin pathway
+LAMP2,negative regulation of NLRP3 inflammasome complex assembly,0.637149576,12,inflammatory response
+LDLR,calcium ion binding,0.535432466,8,calcium channel activity
+LDLR,positive regulation of inflammatory response,0.535432466,8,inflammatory response
+MMP10,regulation of cell migration,0.541509985,8,cell migration
+NDEL1,cell differentiation,0.535787034,8,cell differentiation
+NDEL1,cell migration,0.535787034,8,cell migration
+NDEL1,cell migration,0.535787034,8,cell migration
+NLRC5,immune system process,0.547680203,8,immune response
+NLRC5,innate immune response,0.547680203,8,immune response
+NLRC5,innate immune response,0.547680203,8,immune response
+NLRC5,negative regulation of NF-kappaB transcription factor activity,0.547680203,8,NF-kappaB factor activity
+NLRC5,negative regulation of NF-kappaB transcription factor activity,0.547680203,8,NF-kappaB factor activity
+NLRC5,negative regulation of type I interferon-mediated signaling pathway,0.547680203,8,inflammatory response
+NLRC5,negative regulation of type I interferon-mediated signaling pathway,0.547680203,8,inflammatory response
+NR3C1,negative regulation of apoptotic process,0.565297848,8,apoptotic process
+NR3C1,negative regulation of vascular permeability,0.565297848,8,vascular permeability
+perforin,calcium ion binding,0.580352422,8,calcium channel activity
+perforin,immune response to tumor cell,0.580352422,8,immune response
+perforin,T cell mediated cytotoxicity,0.580352422,8,T cell mediated response
+perforin,T cell mediated cytotoxicity,0.580352422,8,T cell mediated response
+PLN,calcium ion transport,0.583996082,8,calcium channel activity
+PLN,calcium ion-transporting ATPase complex,0.583996082,8,calcium channel activity
+PLN,intracellular calcium ion homeostasis,0.583996082,8,calcium channel activity
+PLN,intracellular calcium ion homeostasis,0.583996082,8,calcium channel activity
+PLN,negative regulation of calcium ion binding,0.583996082,8,calcium channel activity
+PLN,negative regulation of calcium ion binding,0.583996082,8,calcium channel activity
+PLN,negative regulation of calcium ion transmembrane transporter activity,0.583996082,8,calcium channel activity
+PLN,negative regulation of calcium ion transport,0.583996082,8,calcium channel activity
+PLN,Notch signaling pathway,0.583996082,8,Notch signaling response
+PRELP,collagen-containing extracellular matrix,0.555117212,8,ECM component
+RB1CC1,apoptotic process,0.621962523,8,apoptotic process
+RB1CC1,extrinsic apoptotic signaling pathway,0.621962523,8,apoptotic process
+RB1CC1,negative regulation of apoptotic process,0.621962523,8,apoptotic process
+RHOQ,actin cytoskeleton organization,0.658461189,8,actin cytoskeleton
+RHOQ,cortical actin cytoskeleton organization,0.658461189,8,actin cytoskeleton
+RHOQ,cortical actin cytoskeleton organization,0.658461189,8,actin cytoskeleton
+RHOQ,cortical actin cytoskeleton organization,0.658461189,8,actin cytoskeleton
+S100A6,calcium ion binding,0.539846046,8,calcium channel activity
+S100A6,calcium ion binding,0.539846046,8,calcium channel activity
+S100A6,calcium-dependent protein binding,0.539846046,8,calcium channel activity
+S100A6,collagen-containing extracellular matrix,0.539846046,8,ECM component
+SARM1,cell differentiation,0.575685189,8,cell differentiation
+SARM1,immune system process,0.575685189,8,immune response
+SARM1,innate immune response,0.575685189,8,immune response
+SARM1,NAD(P)+ nucleosidase activity,0.575685189,8,NADPH oxidase activity
+SARM1,NAD+ nucleosidase activity,0.575685189,8,NADPH oxidase activity
+SARM1,NAD+ nucleosidase activity,0.575685189,8,NADPH oxidase activity
+SARM1,negative regulation of MyD88-independent toll-like receptor signaling pathway,0.575685189,8,TLR pathway
+SENP2,fat cell differentiation,0.598880408,8,T cell mediated response
+SENP2,trophoblast giant cell differentiation,0.598880408,8,T cell mediated response
+SENP2,Wnt signaling pathway,0.598880408,8,Wnt/beta-catenin pathway
+SLC12A1,kidney development,0.555303238,8,kidney development
+SNAI2,cell migration involved in endocardial cushion formation,0.535320461,8,cell migration
+SNAI2,cellular response to epidermal growth factor stimulus,0.535320461,8,growth factor signaling
+SNAI2,negative regulation of canonical Wnt signaling pathway,0.535320461,8,Wnt/beta-catenin pathway
+SNAI2,negative regulation of cell adhesion involved in substrate-bound cell migration,0.535320461,8,cell adhesion
+SNAI2,negative regulation of cell adhesion mediated by integrin,0.535320461,8,cell adhesion
+SNAI2,negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage,0.535320461,8,apoptotic process
+SNAI2,neural crest cell development,0.535320461,8,T cell mediated response
+SNAI2,Notch signaling pathway,0.535320461,8,Notch signaling response
+SNAI2,positive regulation of cell migration,0.535320461,8,cell migration
+SNAI2,regulation of chemokine production,0.535320461,8,chemotaxis
+SNAI2,substrate-dependent cell migration,0.535320461,8,T cell mediated response
+SNAI2,white fat cell differentiation,0.535320461,8,T cell mediated response
+SNAI2,white fat cell differentiation,0.535320461,8,T cell mediated response
+SNAP23,adherens junction,0.767011492,8,junction assembly
+SNAP23,histamine secretion by mast cell,0.767011492,8,T cell mediated response
+SPI1,apoptotic process involved in blood vessel morphogenesis,0.699531878,8,apoptotic process
+SPI1,cell differentiation,0.699531878,8,cell differentiation
+SPI1,collagen-containing extracellular matrix,0.699531878,8,ECM component
+SPI1,collagen-containing extracellular matrix,0.699531878,8,ECM component
+SPI1,interleukin-6-mediated signaling pathway,0.699531878,8,cell response to cytokines
+SPI1,macrophage differentiation,0.699531878,8,macrophage signaling response
+SPI1,negative regulation of NF-kappaB transcription factor activity,0.699531878,8,NF-kappaB factor activity
+SPI1,negative regulation of NIK/NF-kappaB signaling,0.699531878,8,NF-kappaB factor activity
+SPI1,positive regulation of antifungal innate immune response,0.699531878,8,immune response
+SPI1,positive regulation of p38MAPK cascade,0.699531878,8,ERK/MAPK signaling response
+SPI1,pro-T cell differentiation,0.699531878,8,T cell mediated response
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,response to cytokine,0.699531878,8,cell response to cytokines
+SPI1,transforming growth factor beta receptor signaling pathway,0.699531878,8,growth factor signaling
+STMN2,calcium-dependent protein binding,0.749818727,8,calcium channel activity
+SUV39H2,cell differentiation,0.663128358,12,cell differentiation
+SUV39H2,cellular response to hypoxia,0.663128358,12,response to oxidative stress
+SYT7,calcium ion binding,0.601185907,8,calcium channel activity
+SYT7,calcium ion binding,0.601185907,8,calcium channel activity
+SYT7,calcium ion regulated lysosome exocytosis,0.601185907,8,calcium channel activity
+SYT7,calcium ion regulated lysosome exocytosis,0.601185907,8,calcium channel activity
+SYT7,cellular response to calcium ion,0.601185907,8,calcium channel activity
+TCF7,alpha-beta T cell differentiation,0.559121987,12,T cell mediated response
+TCF7,canonical Wnt signaling pathway,0.559121987,12,Wnt/beta-catenin pathway
+TCF7,canonical Wnt signaling pathway,0.559121987,12,Wnt/beta-catenin pathway
+TCF7,gamma-delta T cell differentiation,0.559121987,12,T cell mediated response
+TCF7,regulation of gamma-delta T cell differentiation,0.559121987,12,T cell mediated response
+TCF7,T cell receptor V(D)J recombination,0.559121987,12,T cell mediated response
+TCF7,Wnt signaling pathway,0.559121987,12,Wnt/beta-catenin pathway
+TRIM59,innate immune response,0.577807016,8,immune response
+TRIM59,innate immune response,0.577807016,8,immune response
+TRIM59,negative regulation of I-kappaB kinase/NF-kappaB signaling,0.577807016,8,NF-kappaB factor activity
+TRIM59,negative regulation of I-kappaB kinase/NF-kappaB signaling,0.577807016,8,NF-kappaB factor activity
+TRIM59,negative regulation of viral entry into host cell,0.577807016,8,T cell mediated response
+TRPV2,calcium channel activity,0.554950065,8,calcium channel activity
+TRPV2,calcium channel activity,0.554950065,8,calcium channel activity
+TRPV2,calcium ion import across plasma membrane,0.554950065,8,calcium channel activity
+TRPV2,calcium ion transmembrane transport,0.554950065,8,calcium channel activity
+TRPV2,calcium ion transport,0.554950065,8,calcium channel activity
+ZBTB7B,cell differentiation,0.608654876,12,cell differentiation
+ZBTB7B,"negative regulation of CD8-positive, alpha-beta T cell differentiation",0.608654876,12,T cell mediated response
+ZBTB7B,negative regulation of NK T cell proliferation,0.608654876,12,T cell mediated response
+ZBTB7B,NK T cell differentiation,0.608654876,12,T cell mediated response
+ZBTB7B,positive regulation of brown fat cell differentiation,0.608654876,12,T cell mediated response
+ZBTB7B,"positive regulation of CD4-positive, alpha-beta T cell differentiation",0.608654876,12,T cell mediated response
+ZBTB7B,positive regulation of interleukin-17 production,0.608654876,12,cell response to cytokines
+ZBTB7B,"regulation of CD8-positive, alpha-beta T cell differentiation",0.608654876,12,T cell mediated response
+ZNF131,regulation of cytokine production,0.743446609,8,cell response to cytokines
+ZNF131,regulation of immune system process,0.743446609,8,immune response
