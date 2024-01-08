@@ -7,7 +7,7 @@ Code for DKD-SemNet analysis
 This repository contains scripts for visualization of results from the SemNet analysis. 
 
 ## Authors
-Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>}, Cassie S. Mitchell<sup>d,e</sup>, Ashlee N. Ford Versypt<sup>a,b,c</sup> 
+Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>, Cassie S. Mitchell<sup>d,e</sup>, Ashlee N. Ford Versypt<sup>a,b,c</sup> 
 
 <sup>a</sup>Department of Chemical and Biological Engineering, University at Buffalo, The State University of New York, Buffalo, NY, USA<br/>
 <sup>b</sup>Department of Biomedical Engineering, University at Buffalo, The State University of New York, Buffalo, NY, USA<br/>
