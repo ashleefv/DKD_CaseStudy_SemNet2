@@ -1,10 +1,10 @@
-# DKDSemNet
-Code for DKD-SemNet analysis
+# DKD Case Study in SemNet-2
+Code for diabetic kidney disease (DKD) case study in SemNet 2.0.
 
 [![DOI]()]()
 
 ## Overview
-This repository contains scripts for visualization of results from the SemNet analysis. 
+This DKD case study was performed with SemNet 2.0 to identify pathophysiological processes associated with DKD through extensive biomedical text-mining. 
 
 ## Authors
 Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>, Cassie S. Mitchell<sup>d,e</sup>, Ashlee N. Ford Versypt<sup>a,b,c</sup> 
@@ -15,12 +15,12 @@ Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>, Cassie S. Mitchell<s
 <sup>d</sup>Department of Biomedical Engineering, Georgia Institute of Technology and Emory University School of Medicine, Atlanta, GA 30332, USA<br/>
 <sup>e</sup>Center for Machine Learning at Georgia Tech, Georgia Institute of Technology, Atlanta, GA 30332, USA<br/>
 
-## Manuscript
+%## Manuscript
 
 
 ## Script
 
-* DKD-SemNet-visualization.ipynb This is a Jupyter notebook (Python 3) used to visualize data provided in the following files.
+* DKD-SemNet-visualization.ipynb This is a Jupyter notebook (Python 3) used to visualize data provided in the following data files.
 
 ## Data files
 
@@ -34,6 +34,8 @@ Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>, Cassie S. Mitchell<s
 * edge_rule.sif This file maps the positive (+1) or negative (-1) regulatory relation between interacting proteins as provided in interaction.sif. 
 
 ## Recommended Supplementary Packages
+* [SemNet 2.0](https://github.com/pathology-dynamics/semnet-2) is a group of modules for working with semantic networks, specifically those built using the Semantic MEDLINE Database (SemMedDB) repository of semantic predications.
 * [Cytoscape](https://cytoscape.org/) is an open source software platform for visualizing complex networks and integrating these with any type of attribute data.
-
+  
 ## Acknowledgements
+This work was supported by National Institutes of Health grant R35GM133763 to ANFV, National Science Foundation grant 2133411 to ANFV, National Science Foundation CAREER grant 1944247 to C.M, National Institute of Health grant U19-AG056169 sub-award to C.M., and by the Chan Zuckerberg Initiative under grant 253558 to C.M., and the University at Buffalo. 
