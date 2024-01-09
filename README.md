@@ -15,7 +15,6 @@ Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>d</sup>, Cassie S. Mitchell<s
 <sup>d</sup>Department of Biomedical Engineering, Georgia Institute of Technology and Emory University School of Medicine, Atlanta, GA 30332, USA<br/>
 <sup>e</sup>Center for Machine Learning at Georgia Tech, Georgia Institute of Technology, Atlanta, GA 30332, USA<br/>
 
-<> ## Manuscript
 
 ## Script
 
