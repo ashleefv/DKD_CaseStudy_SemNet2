@@ -1,5 +1,5 @@
-# DKD Case Study in SemNet-2
-Code for diabetic kidney disease (DKD) case study in SemNet 2.0.
+# DKD_CaseStudy_SemNet2
+Code for diabetic kidney disease (DKD) case study using SemNet 2.0.
 
 [![DOI]()]()
 
