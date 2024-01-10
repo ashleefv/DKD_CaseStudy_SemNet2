@@ -1,6 +1,7 @@
 # DKD_CaseStudy_SemNet2
 Code for diabetic kidney disease (DKD) case study using SemNet 2.0.
 
+[![DOI](https://zenodo.org/badge/740179121.svg)](https://zenodo.org/doi/10.5281/zenodo.10480080)
 
 ## Overview
 This DKD case study was performed with SemNet 2.0 to identify pathophysiological processes associated with DKD through extensive biomedical text-mining. 
