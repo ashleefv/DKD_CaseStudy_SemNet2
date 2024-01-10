@@ -36,4 +36,4 @@ Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>b</sup>, Cassie S. Mitchell<s
 * [Cytoscape](https://cytoscape.org/) is an open-source software platform for visualizing complex networks and integrating these with any type of attribute data.
   
 ## Acknowledgements
-This work was supported by National Institutes of Health grant R35GM133763 to A.N.F.V., National Science Foundation CAREER grant 2133411 to A.N.F.V., National Science Foundation CAREER grant 1944247 to C.M, National Institute of Health grant U19-AG056169 sub-award to C.M., and by the Chan Zuckerberg Initiative under grant 253558 to C.M. 
+This work was supported by National Institutes of Health grant R35GM133763 to A.N.F.V., National Science Foundation CAREER grant 2133411 to A.N.F.V., National Science Foundation CAREER grant 1944247 to C.S.M., National Institute of Health grant U19-AG056169 sub-award to C.S.M., and by the Chan Zuckerberg Initiative under grant 253558 to C.S.M. 
