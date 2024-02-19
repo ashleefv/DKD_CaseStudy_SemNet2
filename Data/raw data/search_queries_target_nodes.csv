@@ -1,0 +1,200 @@
+,Targets,Target names,sn_types,sn_search_depth,hetesim_metapath_length,num_sn
+0,"['C0596620', 'C0019477', 'C1265831', 'C0035096']","['glucose metabolism', 'Hexosamine', 'Interstitial inflammation', 'Renin-angiotensin system']",[],2,3,1000
+1,"['C0596620', 'C0019477', 'C3537282', 'C3271539']","['glucose metabolism', 'Hexosamine', 'Plasmalemma Vesicle-Associated Protein', 'Name not found']",[],2,3,1000
+2,"['C0596620', 'C0019477', 'C1518770', 'C1523335']","['glucose metabolism', 'Hexosamine', 'Name not found', 'lipopolysaccharide receptor activity']",[],2,3,1000
+3,"['C0596620', 'C0019477', 'C0232809', 'C0268790']","['glucose metabolism', 'Hexosamine', 'Glomerular filtration', 'Renal vascular disorder']",[],2,3,1000
+4,"['C0019477', 'C2754097', 'C3158808', 'C0154260']","['Hexosamine', 'NADPH oxidation', 'renal glucose absorption', 'Disorder of mineral metabolism']",[],2,3,223
+5,"['C0019477', 'C2754097', 'C0081939', 'C1523829']","['Hexosamine', 'NADPH oxidation', 'CD31 Antigens', 'vascular endothelial growth factor receptor 1 binding']",[],2,3,1000
+6,"['C0019477', 'C2754097', 'C5450572', 'C1523335']","['Hexosamine', 'NADPH oxidation', 'interleukin-1 beta secretion', 'lipopolysaccharide receptor activity']",[],2,3,1000
+7,"['C0019477', 'C2754097', 'C0020544', 'C1565489']","['Hexosamine', 'NADPH oxidation', 'Renal hypertension', 'Renal Insufficiency']",[],2,3,1000
+8,"['C0021655', 'C0019477', 'C0006560', 'C0035096']","['Insulin Resistance', 'Hexosamine', 'C-reactive protein', 'Renin-angiotensin system']",[],2,3,1000
+9,"['C0021655', 'C0019477', 'C3537282', 'C0206117']","['Insulin Resistance', 'Hexosamine', 'Plasmalemma Vesicle-Associated Protein', 'Gap Junctions']",[],2,3,1000
+10,"['C0021655', 'C0019477', 'C1515844', 'C0024426']","['Insulin Resistance', 'Hexosamine', 'AKT Signaling Pathway', 'Macrophage Activation']",[],2,3,1000
+11,"['C0021655', 'C0019477', 'C0232810', 'C1565489']","['Insulin Resistance', 'Hexosamine', 'Glomerular membrane permeability', 'Renal Insufficiency']",[],2,3,1000
+12,"['C2754097', 'C3546691', 'C3273807', 'C1265831']","['NADPH oxidation', 'Name not found', 'Sodium-Glucose Transporter 2 Inhibitors', 'Interstitial inflammation']",[],2,3,1000
+13,"['C2754097', 'C3546691', 'C0282625', 'C3537282']","['NADPH oxidation', 'Name not found', 'src-Family Kinases', 'Plasmalemma Vesicle-Associated Protein']",[],2,3,1000
+14,"['C2754097', 'C3546691', 'C4327687', 'C3158849']","['NADPH oxidation', 'Name not found', 'macrophage migration', 'Toll-like receptor 4 binding']",[],2,3,1000
+15,"['C2754097', 'C3546691', 'C0178664', 'C0232809']","['NADPH oxidation', 'Name not found', 'Glomerulosclerosis (disorder)', 'Glomerular filtration']",[],2,3,1000
+16,"['C0596620', 'C0021655', 'C0006560', 'C3273807']","['glucose metabolism', 'Insulin Resistance', 'C-reactive protein', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+17,"['C0596620', 'C0021655', 'C0206117', 'C0063695']","['glucose metabolism', 'Insulin Resistance', 'Gap Junctions', 'Intercellular adhesion molecule 1']",[],2,3,1000
+18,"['C0596620', 'C0021655', 'C1518770', 'C0063695']","['glucose metabolism', 'Insulin Resistance', 'Name not found', 'Intercellular adhesion molecule 1']",[],2,3,1000
+19,"['C0596620', 'C0021655', 'C0024143', 'C0232809']","['glucose metabolism', 'Insulin Resistance', 'Lupus Nephritis', 'Glomerular filtration']",[],2,3,1000
+20,"['C0002003', 'C1325419', 'C3273807', 'C0006560']","['Aldehyde Reductase', 'advanced glycation end-product receptor activity', 'Sodium-Glucose Transporter 2 Inhibitors', 'C-reactive protein']",[],2,3,1000
+21,"['C0002003', 'C1325419', 'C0282625', 'C0054953']","['Aldehyde Reductase', 'advanced glycation end-product receptor activity', 'src-Family Kinases', 'CD34 Antigens']",[],2,3,1000
+22,"['C0002003', 'C1325419', 'C5450572', 'C1518102']","['Aldehyde Reductase', 'advanced glycation end-product receptor activity', 'interleukin-1 beta secretion', 'MAPK Signaling Pathway']",[],2,3,1000
+23,"['C0002003', 'C1325419', 'C0020544', 'C0232810']","['Aldehyde Reductase', 'advanced glycation end-product receptor activity', 'Renal hypertension', 'Glomerular membrane permeability']",[],2,3,1000
+24,"['C2754097', 'C0021655', 'C0033687', 'C0154260']","['NADPH oxidation', 'Insulin Resistance', 'Proteinuria', 'Disorder of mineral metabolism']",[],2,3,225
+25,"['C2754097', 'C0021655', 'C1523830', 'C0206117']","['NADPH oxidation', 'Insulin Resistance', 'Name not found', 'Gap Junctions']",[],2,3,1000
+26,"['C2754097', 'C0021655', 'C3158847', 'C5450572']","['NADPH oxidation', 'Insulin Resistance', 'MyD88-dependent toll-like receptor 4 signaling pathway', 'interleukin-1 beta secretion']",[],2,3,1000
+27,"['C2754097', 'C0021655', 'C0443255', 'C0268790']","['NADPH oxidation', 'Insulin Resistance', 'Mesangial expansion', 'Renal vascular disorder']",[],2,3,1000
+28,"['C0019477', 'C3546691', 'C0006560', 'C3273807']","['Hexosamine', 'Name not found', 'C-reactive protein', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+29,"['C0019477', 'C3546691', 'C0220248', 'C0856169']","['Hexosamine', 'Name not found', 'CD47 Antigen', 'Endothelial dysfunction']",[],2,3,1000
+30,"['C0019477', 'C3546691', 'C3158847', 'C1159946']","['Hexosamine', 'Name not found', 'MyD88-dependent toll-like receptor 4 signaling pathway', 'macrophage differentiation']",[],2,3,1000
+31,"['C0019477', 'C3546691', 'C0017658', 'C0178664']","['Hexosamine', 'Name not found', 'Glomerulonephritis', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+32,"['C0598528', 'C0002003', 'C0853068', 'C0006560']","['glycation', 'Aldehyde Reductase', 'Glomerular filtration rate decreased', 'C-reactive protein']",[],2,3,1000
+33,"['C0598528', 'C0002003', 'C3271539', 'C0063695']","['glycation', 'Aldehyde Reductase', 'Name not found', 'Intercellular adhesion molecule 1']",[],2,3,1000
+34,"['C0598528', 'C0002003', 'C1518770', 'C4476796']","['glycation', 'Aldehyde Reductase', 'Name not found', 'Increased reactive oxygen species production']",[],2,3,1000
+35,"['C0598528', 'C0002003', 'C0024143', 'C0178664']","['glycation', 'Aldehyde Reductase', 'Lupus Nephritis', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+36,"['C0020456', 'C0019477', 'C3273807', 'C3158808']","['Hyperglycemia', 'Hexosamine', 'Sodium-Glucose Transporter 2 Inhibitors', 'renal glucose absorption']",[],2,3,1000
+37,"['C0020456', 'C0019477', 'C0063695', 'C0206117']","['Hyperglycemia', 'Hexosamine', 'Intercellular adhesion molecule 1', 'Gap Junctions']",[],2,3,1000
+38,"['C0020456', 'C0019477', 'C1518770', 'C0063695']","['Hyperglycemia', 'Hexosamine', 'Name not found', 'Intercellular adhesion molecule 1']",[],2,3,1000
+39,"['C0020456', 'C0019477', 'C0024143', 'C0178664']","['Hyperglycemia', 'Hexosamine', 'Lupus Nephritis', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+40,"['C3273807', 'C3158808', 'C0021655', 'C0002003']","['Sodium-Glucose Transporter 2 Inhibitors', 'renal glucose absorption', 'Insulin Resistance', 'Aldehyde Reductase']",[],2,3,1000
+41,"['C3273807', 'C3158808', 'C1523830', 'C0081939']","['Sodium-Glucose Transporter 2 Inhibitors', 'renal glucose absorption', 'Name not found', 'CD31 Antigens']",[],2,3,1000
+42,"['C3273807', 'C3158808', 'C1456820', 'C4327687']","['Sodium-Glucose Transporter 2 Inhibitors', 'renal glucose absorption', 'Tumor Necrosis Factor-alpha', 'macrophage migration']",[],2,3,1000
+43,"['C3273807', 'C3158808', 'C1565489', 'C0443255']","['Sodium-Glucose Transporter 2 Inhibitors', 'renal glucose absorption', 'Renal Insufficiency', 'Mesangial expansion']",[],2,3,1000
+44,"['C0035096', 'C3273807', 'C2754097', 'C3546691']","['Renin-angiotensin system', 'Sodium-Glucose Transporter 2 Inhibitors', 'NADPH oxidation', 'Name not found']",[],2,3,1000
+45,"['C0035096', 'C3273807', 'C3537282', 'C2936223']","['Renin-angiotensin system', 'Sodium-Glucose Transporter 2 Inhibitors', 'Plasmalemma Vesicle-Associated Protein', 'Transendothelial Migration']",[],2,3,1000
+46,"['C0035096', 'C3273807', 'C4327687', 'C1518102']","['Renin-angiotensin system', 'Sodium-Glucose Transporter 2 Inhibitors', 'macrophage migration', 'MAPK Signaling Pathway']",[],2,3,1000
+47,"['C0035096', 'C3273807', 'C0017658', 'C0020544']","['Renin-angiotensin system', 'Sodium-Glucose Transporter 2 Inhibitors', 'Glomerulonephritis', 'Renal hypertension']",[],2,3,1000
+48,"['C0154260', 'C3158808', 'C0019477', 'C0596620']","['Disorder of mineral metabolism', 'renal glucose absorption', 'Hexosamine', 'glucose metabolism']",[],2,3,296
+49,"['C0154260', 'C3158808', 'C0132555', 'C3537282']","['Disorder of mineral metabolism', 'renal glucose absorption', 'Nitric Oxide Synthase', 'Plasmalemma Vesicle-Associated Protein']",[],2,3,266
+50,"['C0154260', 'C3158808', 'C4476796', 'C3158847']","['Disorder of mineral metabolism', 'renal glucose absorption', 'Increased reactive oxygen species production', 'MyD88-dependent toll-like receptor 4 signaling pathway']",[],2,3,236
+51,"['C0154260', 'C3158808', 'C0178664', 'C0268790']","['Disorder of mineral metabolism', 'renal glucose absorption', 'Glomerulosclerosis (disorder)', 'Renal vascular disorder']",[],2,3,296
+52,"['C0006560', 'C0853068', 'C2754097', 'C1151146']","['C-reactive protein', 'Glomerular filtration rate decreased', 'NADPH oxidation', 'NADPH oxidase activity']",[],2,3,1000
+53,"['C0006560', 'C0853068', 'C0132555', 'C0081939']","['C-reactive protein', 'Glomerular filtration rate decreased', 'Nitric Oxide Synthase', 'CD31 Antigens']",[],2,3,1000
+54,"['C0006560', 'C0853068', 'C5450640', 'C1456820']","['C-reactive protein', 'Glomerular filtration rate decreased', 'interleukin-6 secretion', 'Tumor Necrosis Factor-alpha']",[],2,3,1000
+55,"['C0006560', 'C0853068', 'C0178664', 'C0024143']","['C-reactive protein', 'Glomerular filtration rate decreased', 'Glomerulosclerosis (disorder)', 'Lupus Nephritis']",[],2,3,1000
+56,"['C0035096', 'C1265831', 'C0019477', 'C3546691']","['Renin-angiotensin system', 'Interstitial inflammation', 'Hexosamine', 'Name not found']",[],2,3,1000
+57,"['C0035096', 'C1265831', 'C1523829', 'C3537282']","['Renin-angiotensin system', 'Interstitial inflammation', 'vascular endothelial growth factor receptor 1 binding', 'Plasmalemma Vesicle-Associated Protein']",[],2,3,1000
+58,"['C0035096', 'C1265831', 'C0115305', 'C4327687']","['Renin-angiotensin system', 'Interstitial inflammation', 'E-Selectin', 'macrophage migration']",[],2,3,1000
+59,"['C0035096', 'C1265831', 'C0024143', 'C0020544']","['Renin-angiotensin system', 'Interstitial inflammation', 'Lupus Nephritis', 'Renal hypertension']",[],2,3,1000
+60,"['C3158808', 'C0006560', 'C0021655', 'C0002003']","['renal glucose absorption', 'C-reactive protein', 'Insulin Resistance', 'Aldehyde Reductase']",[],2,3,1000
+61,"['C3158808', 'C0006560', 'C2936223', 'C0206117']","['renal glucose absorption', 'C-reactive protein', 'Transendothelial Migration', 'Gap Junctions']",[],2,3,1000
+62,"['C3158808', 'C0006560', 'C5450640', 'C1159946']","['renal glucose absorption', 'C-reactive protein', 'interleukin-6 secretion', 'macrophage differentiation']",[],2,3,1000
+63,"['C3158808', 'C0006560', 'C0017658', 'C0268790']","['renal glucose absorption', 'C-reactive protein', 'Glomerulonephritis', 'Renal vascular disorder']",[],2,3,1000
+64,"['C0006560', 'C0853068', 'C1151146', 'C0596620']","['C-reactive protein', 'Glomerular filtration rate decreased', 'NADPH oxidase activity', 'glucose metabolism']",[],2,3,1000
+65,"['C0006560', 'C0853068', 'C0063695', 'C0081939']","['C-reactive protein', 'Glomerular filtration rate decreased', 'Intercellular adhesion molecule 1', 'CD31 Antigens']",[],2,3,1000
+66,"['C0006560', 'C0853068', 'C1515844', 'C1518102']","['C-reactive protein', 'Glomerular filtration rate decreased', 'AKT Signaling Pathway', 'MAPK Signaling Pathway']",[],2,3,1000
+67,"['C0006560', 'C0853068', 'C0024143', 'C0020544']","['C-reactive protein', 'Glomerular filtration rate decreased', 'Lupus Nephritis', 'Renal hypertension']",[],2,3,1000
+68,"['C1265831', 'C3273807', 'C1325419', 'C0598528']","['Interstitial inflammation', 'Sodium-Glucose Transporter 2 Inhibitors', 'advanced glycation end-product receptor activity', 'glycation']",[],2,3,1000
+69,"['C1265831', 'C3273807', 'C0063695', 'C0282625']","['Interstitial inflammation', 'Sodium-Glucose Transporter 2 Inhibitors', 'Intercellular adhesion molecule 1', 'src-Family Kinases']",[],2,3,1000
+70,"['C1265831', 'C3273807', 'C1159946', 'C4476796']","['Interstitial inflammation', 'Sodium-Glucose Transporter 2 Inhibitors', 'macrophage differentiation', 'Increased reactive oxygen species production']",[],2,3,1000
+71,"['C1265831', 'C3273807', 'C0232810', 'C0017658']","['Interstitial inflammation', 'Sodium-Glucose Transporter 2 Inhibitors', 'Glomerular membrane permeability', 'Glomerulonephritis']",[],2,3,1000
+72,"['C0011881', 'C0030892', 'C3546691', 'C0019477']","['Diabetic Nephropathy', 'Pentose Phosphate Pathway', 'Name not found', 'Hexosamine']",[],2,3,1000
+73,"['C0011881', 'C0030892', 'C1523829', 'C0282625']","['Diabetic Nephropathy', 'Pentose Phosphate Pathway', 'vascular endothelial growth factor receptor 1 binding', 'src-Family Kinases']",[],2,3,1000
+74,"['C0011881', 'C0030892', 'C1515844', 'C1159946']","['Diabetic Nephropathy', 'Pentose Phosphate Pathway', 'AKT Signaling Pathway', 'macrophage differentiation']",[],2,3,1000
+75,"['C0011881', 'C0030892', 'C0232810', 'C0232809']","['Diabetic Nephropathy', 'Pentose Phosphate Pathway', 'Glomerular membrane permeability', 'Glomerular filtration']",[],2,3,1000
+76,"['C0011881', 'C0154260', 'C0020456', 'C0596620']","['Diabetic Nephropathy', 'Disorder of mineral metabolism', 'Hyperglycemia', 'glucose metabolism']",[],2,3,324
+77,"['C0011881', 'C0154260', 'C3271539', 'C2936223']","['Diabetic Nephropathy', 'Disorder of mineral metabolism', 'Name not found', 'Transendothelial Migration']",[],2,3,186
+78,"['C0011881', 'C0154260', 'C3158849', 'C3158847']","['Diabetic Nephropathy', 'Disorder of mineral metabolism', 'Toll-like receptor 4 binding', 'MyD88-dependent toll-like receptor 4 signaling pathway']",[],2,3,195
+79,"['C0011881', 'C0154260', 'C0232809', 'C0017658']","['Diabetic Nephropathy', 'Disorder of mineral metabolism', 'Glomerular filtration', 'Glomerulonephritis']",[],2,3,322
+80,"['C0282625', 'C0206117', 'C1325419', 'C2754097']","['src-Family Kinases', 'Gap Junctions', 'advanced glycation end-product receptor activity', 'NADPH oxidation']",[],2,3,1000
+81,"['C0282625', 'C0206117', 'C3158808', 'C0011881']","['src-Family Kinases', 'Gap Junctions', 'renal glucose absorption', 'Diabetic Nephropathy']",[],2,3,1000
+82,"['C0282625', 'C0206117', 'C3158849', 'C1159946']","['src-Family Kinases', 'Gap Junctions', 'Toll-like receptor 4 binding', 'macrophage differentiation']",[],2,3,1000
+83,"['C0282625', 'C0206117', 'C0017658', 'C1565489']","['src-Family Kinases', 'Gap Junctions', 'Glomerulonephritis', 'Renal Insufficiency']",[],2,3,1000
+84,"['C0063695', 'C0220248', 'C0598528', 'C2754097']","['Intercellular adhesion molecule 1', 'CD47 Antigen', 'glycation', 'NADPH oxidation']",[],2,3,1000
+85,"['C0063695', 'C0220248', 'C0154260', 'C1265831']","['Intercellular adhesion molecule 1', 'CD47 Antigen', 'Disorder of mineral metabolism', 'Interstitial inflammation']",[],2,3,300
+86,"['C0063695', 'C0220248', 'C1523335', 'C1456820']","['Intercellular adhesion molecule 1', 'CD47 Antigen', 'lipopolysaccharide receptor activity', 'Tumor Necrosis Factor-alpha']",[],2,3,1000
+87,"['C0063695', 'C0220248', 'C0443255', 'C0017658']","['Intercellular adhesion molecule 1', 'CD47 Antigen', 'Mesangial expansion', 'Glomerulonephritis']",[],2,3,1000
+88,"['C0282625', 'C0132555', 'C2754097', 'C0598528']","['src-Family Kinases', 'Nitric Oxide Synthase', 'NADPH oxidation', 'glycation']",[],2,3,1000
+89,"['C0282625', 'C0132555', 'C0006560', 'C0011881']","['src-Family Kinases', 'Nitric Oxide Synthase', 'C-reactive protein', 'Diabetic Nephropathy']",[],2,3,1000
+90,"['C0282625', 'C0132555', 'C0024426', 'C1518770']","['src-Family Kinases', 'Nitric Oxide Synthase', 'Macrophage Activation', 'Name not found']",[],2,3,1000
+91,"['C0282625', 'C0132555', 'C1565489', 'C0232809']","['src-Family Kinases', 'Nitric Oxide Synthase', 'Renal Insufficiency', 'Glomerular filtration']",[],2,3,1000
+92,"['C0206117', 'C0081939', 'C1151146', 'C1325419']","['Gap Junctions', 'CD31 Antigens', 'NADPH oxidase activity', 'advanced glycation end-product receptor activity']",[],2,3,1000
+93,"['C0206117', 'C0081939', 'C0853068', 'C0030892']","['Gap Junctions', 'CD31 Antigens', 'Glomerular filtration rate decreased', 'Pentose Phosphate Pathway']",[],2,3,1000
+94,"['C0206117', 'C0081939', 'C0063695', 'C4476796']","['Gap Junctions', 'CD31 Antigens', 'Intercellular adhesion molecule 1', 'Increased reactive oxygen species production']",[],2,3,1000
+95,"['C0206117', 'C0081939', 'C0232810', 'C0232809']","['Gap Junctions', 'CD31 Antigens', 'Glomerular membrane permeability', 'Glomerular filtration']",[],2,3,1000
+96,"['C0054953', 'C1523830', 'C0598528', 'C1325419']","['CD34 Antigens', 'Name not found', 'glycation', 'advanced glycation end-product receptor activity']",[],2,3,1000
+97,"['C0054953', 'C1523830', 'C3158808', 'C0035096']","['CD34 Antigens', 'Name not found', 'renal glucose absorption', 'Renin-angiotensin system']",[],2,3,1000
+98,"['C0054953', 'C1523830', 'C1159946', 'C1518770']","['CD34 Antigens', 'Name not found', 'macrophage differentiation', 'Name not found']",[],2,3,1000
+99,"['C0054953', 'C1523830', 'C0232810', 'C0178664']","['CD34 Antigens', 'Name not found', 'Glomerular membrane permeability', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+100,"['C0220248', 'C1523829', 'C0019477', 'C3546691']","['CD47 Antigen', 'vascular endothelial growth factor receptor 1 binding', 'Hexosamine', 'Name not found']",[],2,3,1000
+101,"['C0220248', 'C1523829', 'C1265831', 'C0033687']","['CD47 Antigen', 'vascular endothelial growth factor receptor 1 binding', 'Interstitial inflammation', 'Proteinuria']",[],2,3,1000
+102,"['C0220248', 'C1523829', 'C4327687', 'C3158847']","['CD47 Antigen', 'vascular endothelial growth factor receptor 1 binding', 'macrophage migration', 'MyD88-dependent toll-like receptor 4 signaling pathway']",[],2,3,1000
+103,"['C0220248', 'C1523829', 'C0268790', 'C0178664']","['CD47 Antigen', 'vascular endothelial growth factor receptor 1 binding', 'Renal vascular disorder', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+104,"['C0081939', 'C1621903', 'C0596620', 'C1151146']","['CD31 Antigens', 'Name not found', 'glucose metabolism', 'NADPH oxidase activity']",[],2,3,1000
+105,"['C0081939', 'C1621903', 'C0011881', 'C1265831']","['CD31 Antigens', 'Name not found', 'Diabetic Nephropathy', 'Interstitial inflammation']",[],2,3,1000
+106,"['C0081939', 'C1621903', 'C3158847', 'C5450572']","['CD31 Antigens', 'Name not found', 'MyD88-dependent toll-like receptor 4 signaling pathway', 'interleukin-1 beta secretion']",[],2,3,1000
+107,"['C0081939', 'C1621903', 'C0024143', 'C0017658']","['CD31 Antigens', 'Name not found', 'Lupus Nephritis', 'Glomerulonephritis']",[],2,3,1000
+108,"['C0282625', 'C1621903', 'C0021655', 'C0020456']","['src-Family Kinases', 'Name not found', 'Insulin Resistance', 'Hyperglycemia']",[],2,3,1000
+109,"['C0282625', 'C1621903', 'C0030892', 'C3158808']","['src-Family Kinases', 'Name not found', 'Pentose Phosphate Pathway', 'renal glucose absorption']",[],2,3,1000
+110,"['C0282625', 'C1621903', 'C4327687', 'C1517615']","['src-Family Kinases', 'Name not found', 'macrophage migration', 'JAK-STAT Pathway Deregulation']",[],2,3,1000
+111,"['C0282625', 'C1621903', 'C0017658', 'C0232810']","['src-Family Kinases', 'Name not found', 'Glomerulonephritis', 'Glomerular membrane permeability']",[],2,3,1000
+112,"['C0132555', 'C1523829', 'C0002003', 'C0019477']","['Nitric Oxide Synthase', 'vascular endothelial growth factor receptor 1 binding', 'Aldehyde Reductase', 'Hexosamine']",[],2,3,1000
+113,"['C0132555', 'C1523829', 'C3158808', 'C0011881']","['Nitric Oxide Synthase', 'vascular endothelial growth factor receptor 1 binding', 'renal glucose absorption', 'Diabetic Nephropathy']",[],2,3,1000
+114,"['C0132555', 'C1523829', 'C4476796', 'C1518770']","['Nitric Oxide Synthase', 'vascular endothelial growth factor receptor 1 binding', 'Increased reactive oxygen species production', 'Name not found']",[],2,3,1000
+115,"['C0132555', 'C1523829', 'C0232809', 'C0178664']","['Nitric Oxide Synthase', 'vascular endothelial growth factor receptor 1 binding', 'Glomerular filtration', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+116,"['C1523829', 'C0220248', 'C1325419', 'C0596620']","['vascular endothelial growth factor receptor 1 binding', 'CD47 Antigen', 'advanced glycation end-product receptor activity', 'glucose metabolism']",[],2,3,1000
+117,"['C1523829', 'C0220248', 'C0853068', 'C0035096']","['vascular endothelial growth factor receptor 1 binding', 'CD47 Antigen', 'Glomerular filtration rate decreased', 'Renin-angiotensin system']",[],2,3,1000
+118,"['C1523829', 'C0220248', 'C1517615', 'C1456820']","['vascular endothelial growth factor receptor 1 binding', 'CD47 Antigen', 'JAK-STAT Pathway Deregulation', 'Tumor Necrosis Factor-alpha']",[],2,3,1000
+119,"['C1523829', 'C0220248', 'C0268790', 'C0020544']","['vascular endothelial growth factor receptor 1 binding', 'CD47 Antigen', 'Renal vascular disorder', 'Renal hypertension']",[],2,3,1000
+120,"['C1518770', 'C4327687', 'C2754097', 'C0019477']","['Name not found', 'macrophage migration', 'NADPH oxidation', 'Hexosamine']",[],2,3,1000
+121,"['C1518770', 'C4327687', 'C0154260', 'C1265831']","['Name not found', 'macrophage migration', 'Disorder of mineral metabolism', 'Interstitial inflammation']",[],2,3,73
+122,"['C1518770', 'C4327687', 'C0054953', 'C3537282']","['Name not found', 'macrophage migration', 'CD34 Antigens', 'Plasmalemma Vesicle-Associated Protein']",[],2,3,1000
+123,"['C1518770', 'C4327687', 'C0443255', 'C0268790']","['Name not found', 'macrophage migration', 'Mesangial expansion', 'Renal vascular disorder']",[],2,3,522
+124,"['C5450640', 'C1159946', 'C2754097', 'C0021655']","['interleukin-6 secretion', 'macrophage differentiation', 'NADPH oxidation', 'Insulin Resistance']",[],2,3,1000
+125,"['C5450640', 'C1159946', 'C0853068', 'C1265831']","['interleukin-6 secretion', 'macrophage differentiation', 'Glomerular filtration rate decreased', 'Interstitial inflammation']",[],2,3,1000
+126,"['C5450640', 'C1159946', 'C0220248', 'C1523830']","['interleukin-6 secretion', 'macrophage differentiation', 'CD47 Antigen', 'Name not found']",[],2,3,1000
+127,"['C5450640', 'C1159946', 'C1565489', 'C0443255']","['interleukin-6 secretion', 'macrophage differentiation', 'Renal Insufficiency', 'Mesangial expansion']",[],2,3,1000
+128,"['C1517615', 'C1515844', 'C1151146', 'C0002003']","['JAK-STAT Pathway Deregulation', 'AKT Signaling Pathway', 'NADPH oxidase activity', 'Aldehyde Reductase']",[],2,3,1000
+129,"['C1517615', 'C1515844', 'C0154260', 'C0033687']","['JAK-STAT Pathway Deregulation', 'AKT Signaling Pathway', 'Disorder of mineral metabolism', 'Proteinuria']",[],2,3,255
+130,"['C1517615', 'C1515844', 'C1523829', 'C1621903']","['JAK-STAT Pathway Deregulation', 'AKT Signaling Pathway', 'vascular endothelial growth factor receptor 1 binding', 'Name not found']",[],2,3,975
+131,"['C1517615', 'C1515844', 'C1565489', 'C0232810']","['JAK-STAT Pathway Deregulation', 'AKT Signaling Pathway', 'Renal Insufficiency', 'Glomerular membrane permeability']",[],2,3,1000
+132,"['C1518102', 'C1149184', 'C1151146', 'C0020456']","['MAPK Signaling Pathway', 'interleukin-1 receptor activity', 'NADPH oxidase activity', 'Hyperglycemia']",[],2,3,1000
+133,"['C1518102', 'C1149184', 'C0030892', 'C0006560']","['MAPK Signaling Pathway', 'interleukin-1 receptor activity', 'Pentose Phosphate Pathway', 'C-reactive protein']",[],2,3,1000
+134,"['C1518102', 'C1149184', 'C1621903', 'C0081939']","['MAPK Signaling Pathway', 'interleukin-1 receptor activity', 'Name not found', 'CD31 Antigens']",[],2,3,1000
+135,"['C1518102', 'C1149184', 'C0024143', 'C0268790']","['MAPK Signaling Pathway', 'interleukin-1 receptor activity', 'Lupus Nephritis', 'Renal vascular disorder']",[],2,3,1000
+136,"['C4476796', 'C1523335', 'C1151146', 'C1325419']","['Increased reactive oxygen species production', 'lipopolysaccharide receptor activity', 'NADPH oxidase activity', 'advanced glycation end-product receptor activity']",[],2,3,1000
+137,"['C4476796', 'C1523335', 'C0035096', 'C0033687']","['Increased reactive oxygen species production', 'lipopolysaccharide receptor activity', 'Renin-angiotensin system', 'Proteinuria']",[],2,3,1000
+138,"['C4476796', 'C1523335', 'C0856169', 'C0206117']","['Increased reactive oxygen species production', 'lipopolysaccharide receptor activity', 'Endothelial dysfunction', 'Gap Junctions']",[],2,3,1000
+139,"['C4476796', 'C1523335', 'C0232810', 'C0268790']","['Increased reactive oxygen species production', 'lipopolysaccharide receptor activity', 'Glomerular membrane permeability', 'Renal vascular disorder']",[],2,3,1000
+140,"['C5450572', 'C4327687', 'C0598528', 'C1325419']","['interleukin-1 beta secretion', 'macrophage migration', 'glycation', 'advanced glycation end-product receptor activity']",[],2,3,1000
+141,"['C5450572', 'C4327687', 'C0011881', 'C1265831']","['interleukin-1 beta secretion', 'macrophage migration', 'Diabetic Nephropathy', 'Interstitial inflammation']",[],2,3,1000
+142,"['C5450572', 'C4327687', 'C0054953', 'C1523829']","['interleukin-1 beta secretion', 'macrophage migration', 'CD34 Antigens', 'vascular endothelial growth factor receptor 1 binding']",[],2,3,1000
+143,"['C5450572', 'C4327687', 'C0020544', 'C0178664']","['interleukin-1 beta secretion', 'macrophage migration', 'Renal hypertension', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+144,"['C1159946', 'C5450572', 'C0002003', 'C0598528']","['macrophage differentiation', 'interleukin-1 beta secretion', 'Aldehyde Reductase', 'glycation']",[],2,3,1000
+145,"['C1159946', 'C5450572', 'C3273807', 'C0035096']","['macrophage differentiation', 'interleukin-1 beta secretion', 'Sodium-Glucose Transporter 2 Inhibitors', 'Renin-angiotensin system']",[],2,3,1000
+146,"['C1159946', 'C5450572', 'C2936223', 'C0081939']","['macrophage differentiation', 'interleukin-1 beta secretion', 'Transendothelial Migration', 'CD31 Antigens']",[],2,3,1000
+147,"['C1159946', 'C5450572', 'C0443255', 'C0020544']","['macrophage differentiation', 'interleukin-1 beta secretion', 'Mesangial expansion', 'Renal hypertension']",[],2,3,1000
+148,"['C4476796', 'C1518102', 'C0021655', 'C0019477']","['Increased reactive oxygen species production', 'MAPK Signaling Pathway', 'Insulin Resistance', 'Hexosamine']",[],2,3,1000
+149,"['C4476796', 'C1518102', 'C0035096', 'C0011881']","['Increased reactive oxygen species production', 'MAPK Signaling Pathway', 'Renin-angiotensin system', 'Diabetic Nephropathy']",[],2,3,1000
+150,"['C4476796', 'C1518102', 'C0054953', 'C2936223']","['Increased reactive oxygen species production', 'MAPK Signaling Pathway', 'CD34 Antigens', 'Transendothelial Migration']",[],2,3,1000
+151,"['C4476796', 'C1518102', 'C0232810', 'C0268790']","['Increased reactive oxygen species production', 'MAPK Signaling Pathway', 'Glomerular membrane permeability', 'Renal vascular disorder']",[],2,3,1000
+152,"['C1159946', 'C1517615', 'C0002003', 'C0020456']","['macrophage differentiation', 'JAK-STAT Pathway Deregulation', 'Aldehyde Reductase', 'Hyperglycemia']",[],2,3,1000
+153,"['C1159946', 'C1517615', 'C0030892', 'C3273807']","['macrophage differentiation', 'JAK-STAT Pathway Deregulation', 'Pentose Phosphate Pathway', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+154,"['C1159946', 'C1517615', 'C1621903', 'C0856169']","['macrophage differentiation', 'JAK-STAT Pathway Deregulation', 'Name not found', 'Endothelial dysfunction']",[],2,3,1000
+155,"['C1159946', 'C1517615', 'C0017658', 'C0178664']","['macrophage differentiation', 'JAK-STAT Pathway Deregulation', 'Glomerulonephritis', 'Glomerulosclerosis (disorder)']",[],2,3,1000
+156,"['C1518770', 'C3158849', 'C0596620', 'C0019477']","['Name not found', 'Toll-like receptor 4 binding', 'glucose metabolism', 'Hexosamine']",[],2,3,1000
+157,"['C1518770', 'C3158849', 'C0006560', 'C1265831']","['Name not found', 'Toll-like receptor 4 binding', 'C-reactive protein', 'Interstitial inflammation']",[],2,3,1000
+158,"['C1518770', 'C3158849', 'C1523829', 'C0063695']","['Name not found', 'Toll-like receptor 4 binding', 'vascular endothelial growth factor receptor 1 binding', 'Intercellular adhesion molecule 1']",[],2,3,871
+159,"['C1518770', 'C3158849', 'C0232810', 'C0232809']","['Name not found', 'Toll-like receptor 4 binding', 'Glomerular membrane permeability', 'Glomerular filtration']",[],2,3,1000
+160,"['C1565489', 'C0268790', 'C0021655', 'C2754097']","['Renal Insufficiency', 'Renal vascular disorder', 'Insulin Resistance', 'NADPH oxidation']",[],2,3,1000
+161,"['C1565489', 'C0268790', 'C1265831', 'C0033687']","['Renal Insufficiency', 'Renal vascular disorder', 'Interstitial inflammation', 'Proteinuria']",[],2,3,1000
+162,"['C1565489', 'C0268790', 'C0220248', 'C1523830']","['Renal Insufficiency', 'Renal vascular disorder', 'CD47 Antigen', 'Name not found']",[],2,3,1000
+163,"['C1565489', 'C0268790', 'C5450572', 'C1518770']","['Renal Insufficiency', 'Renal vascular disorder', 'interleukin-1 beta secretion', 'Name not found']",[],2,3,1000
+164,"['C0020544', 'C0017658', 'C0596620', 'C2754097']","['Renal hypertension', 'Glomerulonephritis', 'glucose metabolism', 'NADPH oxidation']",[],2,3,1000
+165,"['C0020544', 'C0017658', 'C1523830', 'C0054953']","['Renal hypertension', 'Glomerulonephritis', 'Name not found', 'CD34 Antigens']",[],2,3,1000
+166,"['C0020544', 'C0017658', 'C1149184', 'C0063695']","['Renal hypertension', 'Glomerulonephritis', 'interleukin-1 receptor activity', 'Intercellular adhesion molecule 1']",[],2,3,1000
+167,"['C0178664', 'C0232810', 'C0021655', 'C0596620']","['Glomerulosclerosis (disorder)', 'Glomerular membrane permeability', 'Insulin Resistance', 'glucose metabolism']",[],2,3,1000
+168,"['C0178664', 'C0232810', 'C0033687', 'C0011881']","['Glomerulosclerosis (disorder)', 'Glomerular membrane permeability', 'Proteinuria', 'Diabetic Nephropathy']",[],2,3,1000
+169,"['C0178664', 'C0232810', 'C0063695', 'C1523829']","['Glomerulosclerosis (disorder)', 'Glomerular membrane permeability', 'Intercellular adhesion molecule 1', 'vascular endothelial growth factor receptor 1 binding']",[],2,3,1000
+170,"['C0178664', 'C0232810', 'C1515844', 'C5450640']","['Glomerulosclerosis (disorder)', 'Glomerular membrane permeability', 'AKT Signaling Pathway', 'interleukin-6 secretion']",[],2,3,1000
+171,"['C0024143', 'C0017658', 'C2754097', 'C0020456']","['Lupus Nephritis', 'Glomerulonephritis', 'NADPH oxidation', 'Hyperglycemia']",[],2,3,1000
+172,"['C0024143', 'C0017658', 'C0006560', 'C3273807']","['Lupus Nephritis', 'Glomerulonephritis', 'C-reactive protein', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+173,"['C0024143', 'C0017658', 'C0063695', 'C3271539']","['Lupus Nephritis', 'Glomerulonephritis', 'Intercellular adhesion molecule 1', 'Name not found']",[],2,3,1000
+174,"['C0024143', 'C0017658', 'C1515844', 'C1456820']","['Lupus Nephritis', 'Glomerulonephritis', 'AKT Signaling Pathway', 'Tumor Necrosis Factor-alpha']",[],2,3,1000
+175,"['C0443255', 'C0232810', 'C0020456', 'C0596620']","['Mesangial expansion', 'Glomerular membrane permeability', 'Hyperglycemia', 'glucose metabolism']",[],2,3,1000
+176,"['C0443255', 'C0232810', 'C0035096', 'C0006560']","['Mesangial expansion', 'Glomerular membrane permeability', 'Renin-angiotensin system', 'C-reactive protein']",[],2,3,1000
+177,"['C0443255', 'C0232810', 'C3537282', 'C1523829']","['Mesangial expansion', 'Glomerular membrane permeability', 'Plasmalemma Vesicle-Associated Protein', 'vascular endothelial growth factor receptor 1 binding']",[],2,3,1000
+178,"['C0443255', 'C0232810', 'C1149184', 'C1159946']","['Mesangial expansion', 'Glomerular membrane permeability', 'interleukin-1 receptor activity', 'macrophage differentiation']",[],2,3,1000
+179,"['C0443255', 'C0017658', 'C0002003', 'C0598528']","['Mesangial expansion', 'Glomerulonephritis', 'Aldehyde Reductase', 'glycation']",[],2,3,1000
+180,"['C0443255', 'C0017658', 'C0006560', 'C3273807']","['Mesangial expansion', 'Glomerulonephritis', 'C-reactive protein', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+181,"['C0443255', 'C0017658', 'C0054953', 'C1621903']","['Mesangial expansion', 'Glomerulonephritis', 'CD34 Antigens', 'Name not found']",[],2,3,810
+182,"['C0443255', 'C0017658', 'C1515844', 'C0115305']","['Mesangial expansion', 'Glomerulonephritis', 'AKT Signaling Pathway', 'E-Selectin']",[],2,3,1000
+183,"['C0178664', 'C0443255', 'C2754097', 'C0598528']","['Glomerulosclerosis (disorder)', 'Mesangial expansion', 'NADPH oxidation', 'glycation']",[],2,3,1000
+184,"['C0178664', 'C0443255', 'C1265831', 'C3273807']","['Glomerulosclerosis (disorder)', 'Mesangial expansion', 'Interstitial inflammation', 'Sodium-Glucose Transporter 2 Inhibitors']",[],2,3,1000
+185,"['C0178664', 'C0443255', 'C0063695', 'C0206117']","['Glomerulosclerosis (disorder)', 'Mesangial expansion', 'Intercellular adhesion molecule 1', 'Gap Junctions']",[],2,3,1000
+186,"['C0178664', 'C0443255', 'C3158849', 'C3158847']","['Glomerulosclerosis (disorder)', 'Mesangial expansion', 'Toll-like receptor 4 binding', 'MyD88-dependent toll-like receptor 4 signaling pathway']",[],2,3,1000
+187,"['C1565489', 'C0268790', 'C1151146', 'C0596620']","['Renal Insufficiency', 'Renal vascular disorder', 'NADPH oxidase activity', 'glucose metabolism']",[],2,3,1000
+188,"['C1565489', 'C0268790', 'C0006560', 'C0853068']","['Renal Insufficiency', 'Renal vascular disorder', 'C-reactive protein', 'Glomerular filtration rate decreased']",[],2,3,1000
+189,"['C1565489', 'C0268790', 'C3537282', 'C0220248']","['Renal Insufficiency', 'Renal vascular disorder', 'Plasmalemma Vesicle-Associated Protein', 'CD47 Antigen']",[],2,3,1000
+190,"['C1565489', 'C0268790', 'C1518770', 'C0063695']","['Renal Insufficiency', 'Renal vascular disorder', 'Name not found', 'Intercellular adhesion molecule 1']",[],2,3,1000
+191,"['C0268790', 'C0232810', 'C2754097', 'C0020456']","['Renal vascular disorder', 'Glomerular membrane permeability', 'NADPH oxidation', 'Hyperglycemia']",[],2,3,1000
+192,"['C0268790', 'C0232810', 'C3158808', 'C1265831']","['Renal vascular disorder', 'Glomerular membrane permeability', 'renal glucose absorption', 'Interstitial inflammation']",[],2,3,1000
+193,"['C0268790', 'C0232810', 'C1523829', 'C1621903']","['Renal vascular disorder', 'Glomerular membrane permeability', 'vascular endothelial growth factor receptor 1 binding', 'Name not found']",[],2,3,1000
+194,"['C0268790', 'C0232810', 'C0063695', 'C1515844']","['Renal vascular disorder', 'Glomerular membrane permeability', 'Intercellular adhesion molecule 1', 'AKT Signaling Pathway']",[],2,3,1000
+195,"['C0232809', 'C1565489', 'C0019477', 'C0598528']","['Glomerular filtration', 'Renal Insufficiency', 'Hexosamine', 'glycation']",[],2,3,1000
+196,"['C0232809', 'C1565489', 'C0030892', 'C3158808']","['Glomerular filtration', 'Renal Insufficiency', 'Pentose Phosphate Pathway', 'renal glucose absorption']",[],2,3,1000
+197,"['C0232809', 'C1565489', 'C1523829', 'C3537282']","['Glomerular filtration', 'Renal Insufficiency', 'vascular endothelial growth factor receptor 1 binding', 'Plasmalemma Vesicle-Associated Protein']",[],2,3,1000
+198,"['C0232809', 'C1565489', 'C5450572', 'C4327687']","['Glomerular filtration', 'Renal Insufficiency', 'interleukin-1 beta secretion', 'macrophage migration']",[],2,3,1000
