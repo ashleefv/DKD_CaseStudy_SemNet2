@@ -26,6 +26,13 @@ Krutika Patidar<sup>a</sup>,  Jennifer H. Deng<sup>b</sup>, Cassie S. Mitchell<s
 * MGI_triple_aapp.csv This file contains mapped ontologies of the top 10% proteins (aapp) at the intersection of DKD, IR, and GEC domains.
 * MGI_triple_gngm.csv This file contains mapped ontologies of the top 10% genes (gngm) at the intersection of DKD, IR, and GEC domains.
 
+## Raw Data
+* combined.csv is a full list of source nodes in the top 10% obtained from post-hoc analysis.
+* combined_10percentile.xlsx comprise source nodes and respective mean HeteSim scores in the top 10% across five domains (combined) and intersection of DKD, IR, and GEC domains (triple)
+* search_queries_target_nodes.csv is a full list of search queries (sets of 4 target nodes) used to create the Hub networks in SemNet 2.0. 
+* User-SpecifiedTargetNodes.csv is a full list of user-specified target nodes that may or may not have been used in the SemNet 2.0 analysis.
+* SourceName_definition.csv provide definitions for source nodes (proteins or gene) mentioned in the study.
+
 ## Cytoscape session
 * interaction-network-session.cys This saved Cytoscape session can be run using the Cytoscape (v3.10.0) software to generate the protein-protein (or protein-gene) interaction network. "PPI_network_paper" network in the session generates the PPI in the manuscript.
 * interaction.sif This file contains interaction rules between proteins/genes.
