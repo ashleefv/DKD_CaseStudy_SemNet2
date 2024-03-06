@@ -1,100 +1,100 @@
 ﻿domain,source_name,source_type,mean_hetesim_score,count,label
-db-ir,PRDX3 peroxidase,aapp,0.650535962,16,comb
-db-ir,RNF144B,aapp,0.592256004,12,comb
-db-ir,prolylarginine,aapp,0.546654639,16,comb
-db-ir,RERE,aapp,0.546654639,16,comb
-db-ir,ABL2,aapp,0.546654639,16,comb
-db-kd,metyrapone reductase,aapp,0.672394305,12,comb
-dkd-gec,TMSB10,aapp,0.571898549,11,comb
-gec-ir,TAP 2,aapp,0.675352193,12,comb
-gec-kd,REN,aapp,0.588034427,16,comb
-gec-kd,Rab8 protein|RAB8A,aapp,0.549929009,12,comb
-ir-kd,KCNMB1,aapp,0.575623939,12,comb
-db-gec,SUCNR1,gngm,0.590233355,12,comb
-db-gec,Nuclear LIMIIF2,gngm,0.560230957,12,comb
-db-gec,CTD,gngm,0.560230957,12,comb
-db-ir,GPX3,gngm,0.576968244,12,comb
-db-kd,SLC2A5 gene|SLC2A5,gngm,0.577575102,12,comb
-gec-ir,AD 5,gngm,0.759374149,16,comb
-gec-ir,PASD1,gngm,0.732046549,12,comb
-gec-ir,SUV39H2,gngm,0.663128358,12,comb
-gec-ir,Interleukin-12 Gene,gngm,0.662909338,12,comb
-gec-ir,LAMP2,gngm,0.637149576,12,comb
-gec-ir,CD3D,gngm,0.611155508,12,comb
-gec-ir,BACH2 gene|BACH2,gngm,0.609224971,11,comb
-gec-ir,ZBTB7B gene|ZBTB7B,gngm,0.608654876,12,comb
-gec-ir,Cytosine deaminase,gngm,0.607985862,16,comb
-gec-ir,pyrrolidonecarboxylic acid,gngm,0.607731454,12,comb
-gec-ir,CLIC1,gngm,0.607694259,12,comb
-gec-ir,TH gene|TH,gngm,0.572137144,12,comb
-gec-ir,TCF7,gngm,0.559121987,12,comb
-gec-ir,PSMD10,gngm,0.541706796,12,comb
-gec-ir,DNALI1,gngm,0.541706796,12,comb
-gec-ir,GOSR1,gngm,0.541706796,12,comb
-gec-ir,TMED5,gngm,0.541706796,12,comb
-gec-ir,IL27,gngm,0.541706796,12,comb
-gec-ir,GSTO1,gngm,0.541706796,12,comb
-dkd-ir,TYK2,aapp,0.762783472,8,triple
-dkd-ir,meprin B,aapp,0.74015156,8,triple
-dkd-ir,NRBP gene|NRBP1,aapp,0.736226307,8,triple
-dkd-ir,SLC39A11,aapp,0.731587372,8,triple
-dkd-gec,Inactivated C3b|C3,aapp,0.698985848,8,triple
-dkd-ir,CACNG2,aapp,0.668126871,8,triple
-dkd-ir,CATALASE|SSB,aapp,0.664755664,8,triple
-dkd-ir,GnRH-III,aapp,0.660877123,8,triple
-gec-ir,CREG1,aapp,0.653876499,8,triple
-gec-ir,I Kappa B-Alpha|NFKBIA,aapp,0.652933245,8,triple
-gec-ir,ICP47,aapp,0.650065989,8,triple
-dkd-gec,SNAP23 gene|SNAP23,aapp,0.64523171,8,triple
-dkd-ir,GABBR2,aapp,0.644316863,8,triple
-gec-ir,tripeptidyl-peptidase II,aapp,0.621641006,12,triple
-gec-ir,STK16,aapp,0.610496439,8,triple
-gec-ir,Qa-2 antigen,aapp,0.607944599,8,triple
-gec-ir,kallikrein 4,aapp,0.606050377,8,triple
-dkd-ir,GALR1 gene|GALR1,aapp,0.605674957,8,triple
-gec-ir,KRT88P,aapp,0.600308905,8,triple
-gec-ir,Angiopoietin-2|ANGPT2,aapp,0.598166722,8,triple
-gec-ir,Interleukin Receptor,aapp,0.598114394,8,triple
-gec-ir,CTLA4,aapp,0.598067711,8,triple
-gec-ir,"IL7 protein, human|IL7",aapp,0.595852898,8,triple
-gec-ir,DKC1 gene|DKC1,aapp,0.595205683,8,triple
-dkd-ir,PRLH gene|PRLH,aapp,0.591904591,8,triple
-dkd-gec,limitin,aapp,0.588046691,8,triple
-gec-ir,CCL1 gene|CCL1,aapp,0.583627953,12,triple
-dkd-gec,SERPINB1,aapp,0.58288039,8,triple
-gec-ir,glypican 3,aapp,0.580530919,12,triple
-gec-ir,F13A1,aapp,0.578597229,8,triple
-dkd-ir,LGALS1,aapp,0.577453373,8,triple
-gec-ir,Thromboxane Receptor,aapp,0.575879759,8,triple
-gec-ir,PNLIPRP2,aapp,0.57521717,8,triple
-gec-ir,tuftsin,aapp,0.574380994,12,triple
-dkd-gec,thymosin beta(10)|TMSB10,aapp,0.571898549,11,triple
-gec-ir,C3,aapp,0.571879395,15,triple
-dkd-gec,Interleukin Receptor,aapp,0.570511018,8,triple
-gec-ir,IRF3,aapp,0.567116627,12,triple
-gec-ir,HLA Complex,aapp,0.566436549,8,triple
-dkd-ir,ATP12A|HK1,aapp,0.566336289,8,triple
-dkd-gec,DSPP gene|DSPP,aapp,0.56627109,8,triple
-dkd-gec,Binding protein 3,aapp,0.56581075,8,triple
-dkd-ir,SLC30A5,aapp,0.564215678,8,triple
-gec-ir,VEGFA,aapp,0.563661532,8,triple
-dkd-gec,Virosomes,aapp,0.562805224,8,triple
-gec-ir,ribosomal protein S3,aapp,0.561919405,8,triple
-gec-ir,HEY2,aapp,0.561476008,12,triple
-gec-ir,ANXA7,aapp,0.561385621,8,triple
-gec-ir,MAP1A,aapp,0.56060179,8,triple
-gec-ir,glutaredoxin 2,aapp,0.560156047,8,triple
-dkd-ir,Taq Polymerase,aapp,0.559252993,8,triple
-dkd-ir,GPSM1|RNASEH2C,aapp,0.558794213,8,triple
-gec-ir,CD226 antigen,aapp,0.557081132,12,triple
-dkd-gec,CCL22 gene|CCL22,aapp,0.553272043,8,triple
-gec-ir,SESN1,aapp,0.552328322,8,triple
-dkd-gec,DYNLRB1,aapp,0.548177158,8,triple
-gec-ir,ITGB1 gene|ITGB1,aapp,0.54672248,8,triple
-dkd-ir,IER3 gene|IER3,aapp,0.546511994,8,triple
-dkd-gec,SUPT20H,aapp,0.544548253,8,triple
-dkd-ir,cryptochrome 1,aapp,0.54198636,8,triple
-gec-ir,fibulin-4,aapp,0.541389767,8,triple
-gec-ir,DUSP5,aapp,0.538327636,8,triple
-gec-ir,CD80,aapp,0.533585031,8,triple
-gec-ir,EGFR antigen,aapp,0.531664798,8,triple
+DB-IR,PRDX3 peroxidase,aapp,0.650535962,16,comb
+DB-IR,RNF144B,aapp,0.592256004,12,comb
+DB-IR,prolylarginine,aapp,0.546654639,16,comb
+DB-IR,RERE,aapp,0.546654639,16,comb
+DB-IR,ABL2,aapp,0.546654639,16,comb
+DB-KD,metyrapone reductase,aapp,0.672394305,12,comb
+DKD-GEC,TMSB10,aapp,0.571898549,11,comb
+GEC-IR,TAP 2,aapp,0.675352193,12,comb
+GEC-KD,REN,aapp,0.588034427,16,comb
+GEC-KD,Rab8 protein|RAB8A,aapp,0.549929009,12,comb
+IR-KD,KCNMB1,aapp,0.575623939,12,comb
+DB-GEC,SUCNR1,gngm,0.590233355,12,comb
+DB-GEC,Nuclear LIMIIF2,gngm,0.560230957,12,comb
+DB-GEC,CTD,gngm,0.560230957,12,comb
+DB-IR,GPX3,gngm,0.576968244,12,comb
+DB-KD,SLC2A5 gene|SLC2A5,gngm,0.577575102,12,comb
+GEC-IR,AD 5,gngm,0.759374149,16,comb
+GEC-IR,PASD1,gngm,0.732046549,12,comb
+GEC-IR,SUV39H2,gngm,0.663128358,12,comb
+GEC-IR,Interleukin-12 Gene,gngm,0.662909338,12,comb
+GEC-IR,LAMP2,gngm,0.637149576,12,comb
+GEC-IR,CD3D,gngm,0.611155508,12,comb
+GEC-IR,BACH2 gene|BACH2,gngm,0.609224971,11,comb
+GEC-IR,ZBTB7B gene|ZBTB7B,gngm,0.608654876,12,comb
+GEC-IR,Cytosine deaminase,gngm,0.607985862,16,comb
+GEC-IR,pyrrolidonecarboxylic acid,gngm,0.607731454,12,comb
+GEC-IR,CLIC1,gngm,0.607694259,12,comb
+GEC-IR,TH gene|TH,gngm,0.572137144,12,comb
+GEC-IR,TCF7,gngm,0.559121987,12,comb
+GEC-IR,PSMD10,gngm,0.541706796,12,comb
+GEC-IR,DNALI1,gngm,0.541706796,12,comb
+GEC-IR,GOSR1,gngm,0.541706796,12,comb
+GEC-IR,TMED5,gngm,0.541706796,12,comb
+GEC-IR,IL27,gngm,0.541706796,12,comb
+GEC-IR,GSTO1,gngm,0.541706796,12,comb
+DKD-IR,TYK2,aapp,0.762783472,8,triple
+DKD-IR,meprin B,aapp,0.74015156,8,triple
+DKD-IR,NRBP gene|NRBP1,aapp,0.736226307,8,triple
+DKD-IR,SLC39A11,aapp,0.731587372,8,triple
+DKD-GEC,Inactivated C3b|C3,aapp,0.698985848,8,triple
+DKD-IR,CACNG2,aapp,0.668126871,8,triple
+DKD-IR,CATALASE|SSB,aapp,0.664755664,8,triple
+DKD-IR,GnRH-III,aapp,0.660877123,8,triple
+GEC-IR,CREG1,aapp,0.653876499,8,triple
+GEC-IR,I Kappa B-Alpha|NFKBIA,aapp,0.652933245,8,triple
+GEC-IR,ICP47,aapp,0.650065989,8,triple
+DKD-GEC,SNAP23 gene|SNAP23,aapp,0.64523171,8,triple
+DKD-IR,GABBR2,aapp,0.644316863,8,triple
+GEC-IR,tripeptidyl-peptidase II,aapp,0.621641006,12,triple
+GEC-IR,STK16,aapp,0.610496439,8,triple
+GEC-IR,Qa-2 antigen,aapp,0.607944599,8,triple
+GEC-IR,kallikrein 4,aapp,0.606050377,8,triple
+DKD-IR,GALR1 gene|GALR1,aapp,0.605674957,8,triple
+GEC-IR,KRT88P,aapp,0.600308905,8,triple
+GEC-IR,Angiopoietin-2|ANGPT2,aapp,0.598166722,8,triple
+GEC-IR,Interleukin Receptor,aapp,0.598114394,8,triple
+GEC-IR,CTLA4,aapp,0.598067711,8,triple
+GEC-IR,"IL7 protein, human|IL7",aapp,0.595852898,8,triple
+GEC-IR,DKC1 gene|DKC1,aapp,0.595205683,8,triple
+DKD-IR,PRLH gene|PRLH,aapp,0.591904591,8,triple
+DKD-GEC,limitin,aapp,0.588046691,8,triple
+GEC-IR,CCL1 gene|CCL1,aapp,0.583627953,12,triple
+DKD-GEC,SERPINB1,aapp,0.58288039,8,triple
+GEC-IR,glypican 3,aapp,0.580530919,12,triple
+GEC-IR,F13A1,aapp,0.578597229,8,triple
+DKD-IR,LGALS1,aapp,0.577453373,8,triple
+GEC-IR,Thromboxane Receptor,aapp,0.575879759,8,triple
+GEC-IR,PNLIPRP2,aapp,0.57521717,8,triple
+GEC-IR,tuftsin,aapp,0.574380994,12,triple
+DKD-GEC,thymosin beta(10)|TMSB10,aapp,0.571898549,11,triple
+GEC-IR,C3,aapp,0.571879395,15,triple
+DKD-GEC,Interleukin Receptor,aapp,0.570511018,8,triple
+GEC-IR,IRF3,aapp,0.567116627,12,triple
+GEC-IR,HLA Complex,aapp,0.566436549,8,triple
+DKD-IR,ATP12A|HK1,aapp,0.566336289,8,triple
+DKD-GEC,DSPP gene|DSPP,aapp,0.56627109,8,triple
+DKD-GEC,Binding protein 3,aapp,0.56581075,8,triple
+DKD-IR,SLC30A5,aapp,0.564215678,8,triple
+GEC-IR,VEGFA,aapp,0.563661532,8,triple
+DKD-GEC,Virosomes,aapp,0.562805224,8,triple
+GEC-IR,ribosomal protein S3,aapp,0.561919405,8,triple
+GEC-IR,HEY2,aapp,0.561476008,12,triple
+GEC-IR,ANXA7,aapp,0.561385621,8,triple
+GEC-IR,MAP1A,aapp,0.56060179,8,triple
+GEC-IR,glutaredoxin 2,aapp,0.560156047,8,triple
+DKD-IR,Taq Polymerase,aapp,0.559252993,8,triple
+DKD-IR,GPSM1|RNASEH2C,aapp,0.558794213,8,triple
+GEC-IR,CD226 antigen,aapp,0.557081132,12,triple
+DKD-GEC,CCL22 gene|CCL22,aapp,0.553272043,8,triple
+GEC-IR,SESN1,aapp,0.552328322,8,triple
+DKD-GEC,DYNLRB1,aapp,0.548177158,8,triple
+GEC-IR,ITGB1 gene|ITGB1,aapp,0.54672248,8,triple
+DKD-IR,IER3 gene|IER3,aapp,0.546511994,8,triple
+DKD-GEC,SUPT20H,aapp,0.544548253,8,triple
+DKD-IR,cryptochrome 1,aapp,0.54198636,8,triple
+GEC-IR,fibulin-4,aapp,0.541389767,8,triple
+GEC-IR,DUSP5,aapp,0.538327636,8,triple
+GEC-IR,CD80,aapp,0.533585031,8,triple
+GEC-IR,EGFR antigen,aapp,0.531664798,8,triple
