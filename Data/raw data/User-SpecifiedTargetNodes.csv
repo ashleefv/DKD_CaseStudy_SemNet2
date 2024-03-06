@@ -1,0 +1,80 @@
+﻿Domain type,CUI,Concept (ENG),Semantic Types
+DB,C0020456,Hyperglycemia,Disease or Syndrome
+DB,C0598528,Glycation,Molecular Function
+DB,C1325419,advanced glycation end-product receptor activity,Molecular Function
+DB,C1151146,NADPH oxidase activity,Molecular Function
+DB,C2754097,NADPH oxidation,Molecular Function
+DB,C0596620,Glucose Metabolism,Molecular Function
+DB,C3546691,activation of protein kinase C activity,Molecular Function
+DB,C0019477,Hexosamine,organic chemical
+DB,C0002003,Aldehyde Reductase,"amino acid, peptide, or protein"
+DB,C0021655,Insulin Resistance,Pathologic function
+DKD,C0035096,Renin-angiotensin system,Body system
+DKD,C3273807,SGLT2 inhibitors,organic chemical
+DKD,C0033687,Proteinuria,finding
+DKD,C0853068,Glomerular Filtration Rate decreased,finding
+DKD,C0011881,Diabetic Nephropathy,Disease or Syndrome
+DKD,C0030892,Pentose Phosphate Pathway,Molecular Function
+DKD,C3158808,renal glucose absorption,Cell Function
+DKD,C0154260,Disorder of mineral metabolism,Pathologic function
+DKD,C1265831,Interstitial inflammation,Pathologic function
+DKD,C0006560,C-reactive protein,"amino acid, peptide, or protein"
+DKD,C0030190,Plasminogen Activator Inhibitor 1,
+GEC,C1523830,VEGF receptor 2 binding,Molecular function
+GEC,C1523829,VEGF receptor 1 binding,Molecular function
+GEC,C3271719,positive regulation of EC chemotaxis by VEGF-activated VEGFR signaling pathway,Molecular function
+GEC,C3267003,Vascular endothelial growth factor overexpression,Disease or Syndrome
+GEC,C1518331,negative regulation of Nitric oxide release,Cell function
+GEC,C0132555,Nitric oxide synthase,"amino acid, peptide, or protein"
+GEC,C1621903,cadherin activity,Molecular Function
+GEC,C0206117,Gap junctions,Body space or junciton
+GEC,C3824557,gap junction-mediated intercellular transport,Cell Function
+GEC,C3159211,cell-cell adhesion mediated by cadherin,Cell Function
+GEC,C1656414,calcium ion homeostasis in cytoplasm,Cell Function
+GEC,C0856169,endothelial dysfunction,Disease or Syndrome
+GEC,C2936223,Transendothelial Migration,Organ or Tissue Function
+GEC,C3894799,negative regulation of gap junction assembly,Cell Function
+GEC,C5539472,loss of glomerular endothelial cell fenestration,finding
+GEC,C3271539,glomeruar endothelium fenestra,cell component
+GEC,C5539471,Abnormal glomerular endothelial cell morphology,Finding
+GEC,C0282625,src-family kinases,"amino acid, peptide, or protein"
+GEC,C0081939,CD31 antigens,"amino acid, peptide, or protein"
+GEC,C3537282,Plasmalemma Vesicle-Associated Protein,"amino acid, peptide, or protein"
+GEC,C0054953,CD34 antigens,"amino acid, peptide, or protein"
+GEC,C0063695,Intercellular adhesion molecule 1,"amino acid, peptide, or protein"
+GEC,C0220248,CD47 antigens,"amino acid, peptide, or protein"
+IR,C1523335,LPS immune receptor activity,Molecular Function
+IR,C3158849,Toll-like receptor 4 binding,Molecular Function
+IR,C3158847,myD88-dependent TLR4 signaling pathway,Molecular Function
+IR,C1817989,Oxidative burst during acute inflammatory response,Physiologic Function
+IR,C4476796,Increased reactive oxygen species production,Cell or Molecular dysfunction
+IR,C2612730,cellular response to reactive oxygen species,Cell Function
+IR,C1518770,PI3K-AkT Pathway Deregulation,Cell or Molecular dysfunction
+IR,C1515844,AKT Signaling Pathway,Molecular Function
+IR,C1513837,NFkB activation pathway,Molecular Function
+IR,C1149184,Interleukin 1 receptor activity,Molecular Function
+IR,C5450572,Interleukin-1 beta secretion,Organism function
+IR,C5450640,Interleukin 6 secretion ,Organism function
+IR,C1456820,Tumor necrosis factor alpha,"amino acid, peptide, or protein"
+IR,C1818801,positive regulation of leukocyte migration,Cell Function
+IR,C1518102,MAPK Signaling Pathway,Cell Function
+IR,C1517615,JAK-STAT Signaling Pathway,Cell or Molecular Dysfunction
+IR,C1155359,cytokine-mediated signaling pathway,biological process
+IR,C2984494,NTRK1/PI3K/PLC-Gamma Signaling Pathway,Functional Concept
+IR,C1159946,macrophage differentiation,Cell Function
+IR,C0024426,macrophage activation,Cell Function
+IR,C4327687,macrophage migration,Cell Function
+IR,C3155006,macrophage response involved in immune response,Cell Function
+IR,C0115305,E-selectin,"amino acid, peptide, or protein"
+IR,C0063695,Intercellular adhesion molecule 1,"amino acid, peptide, or protein"
+KD,C0232810,Glomerular membrane permeability,Organ or Tissue Function
+KD,C0232809,glomerular filtration,Organ or Tissue Function
+KD, C0268731,Renal glomerular disease,Disease or Syndrome
+KD,C0694525,glomerular disorders in diseases classified elsewhere,Disease or Syndrome
+KD,C0178664,Glomerulosclerosis (disorder),Disease or Syndrome
+KD,C0443255,Mesangial expansion,Spatial concept
+KD,C0020544,Renal hypertension,Disease or Syndrome
+KD,C0268790,Renal vascular disorder,Disease or Syndrome
+KD,C0024143,Lupus Nephritis,Disease or Syndrome
+KD,C1565489,Renal Insufficiency,Disease or Syndrome
+KD,C0017658,Glomerulonephritis,Disease or Syndrome
